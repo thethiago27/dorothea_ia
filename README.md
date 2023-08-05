@@ -27,7 +27,7 @@ Caso você queira executar o Dorothea IA em sua máquina local, siga estas etapa
 1. **Clonagem do Repositório**: Clone este repositório em seu ambiente local.
 
    ```
-   git clone https://github.com/your-username/dorothea-ia.git
+   git clone https://github.com/thethiago27/dorothea_ia
    ```
 
 2. **Instalação de Dependências**: Navegue até o diretório do projeto e instale as dependências necessárias.
@@ -39,7 +39,7 @@ Caso você queira executar o Dorothea IA em sua máquina local, siga estas etapa
 3. **Execução do Projeto**: Execute o aplicativo.
 
    ```
-   python app.py
+   python train.py
    ```
 
 Lembre-se de que essas instruções são gerais e podem variar dependendo do ambiente e das configurações específicas.
