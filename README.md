@@ -1,55 +1,55 @@
-# Dorothea IA - Recomendação de Músicas da Taylor Swift com Base no Seu Humor
+# Dorothea AI - Taylor Swift Song Recommendation Based on Your Mood
 
-![Dorothea IA](logo.png)
+![Dorothea AI](https://i.imgur.com/rJ7uaji.jpg)
 
-Bem-vindo ao Dorothea IA! Este é um projeto de inteligência artificial que tem como objetivo tornar sua experiência musical mais emocional e envolvente, recomendando músicas da renomada artista Taylor Swift de acordo com o seu estado de espírito atual. Seja você alegre, triste, empolgado ou reflexivo, o Dorothea IA está aqui para criar uma playlist personalizada que se adapte perfeitamente ao seu humor.
+Welcome to Dorothea AI! This is an artificial intelligence project aimed at making your music experience more emotional and engaging by recommending songs from the renowned artist Taylor Swift according to your current mood. Whether you're joyful, sad, excited, or contemplative, Dorothea AI is here to curate a personalized playlist that perfectly aligns with your mood.
 
-## Tecnologias Utilizadas
+## Utilized Technologies
 
-O Dorothea IA é construído com as seguintes tecnologias:
+Dorothea AI is built using the following technologies:
 
-- [Python](https://python.org): A linguagem de programação utilizada para o desenvolvimento da inteligência artificial.
-- [TensorFlow](https://www.tensorflow.org): Uma biblioteca de código aberto de aprendizado de máquina e deep learning, que proporciona as ferramentas necessárias para criar e treinar modelos de recomendação de músicas.
+- [Python](https://python.org): The programming language used for developing the artificial intelligence.
+- [TensorFlow](https://www.tensorflow.org): An open-source library for machine learning and deep learning, providing the necessary tools to create and train music recommendation models.
 
-## Como Funciona
+## How It Works
 
-O Dorothea IA oferece uma experiência simples e envolvente:
+Dorothea AI offers a simple and engaging experience:
 
-1. **Entrada de Emoção**: Você fornece uma breve descrição do seu humor atual.
-2. **Análise de Sentimento**: Utilizando o TensorFlow e técnicas de processamento de linguagem natural, o Dorothea IA compreende a emoção associada à sua descrição.
-3. **Recomendação Personalizada**: Com base na análise da emoção, o Dorothea IA seleciona cuidadosamente músicas da discografia da Taylor Swift que correspondem ao seu estado emocional.
-4. **Playlist Personalizada**: A IA apresenta a você uma playlist personalizada, pronta para ser apreciada.
+1. **Emotion Input**: You provide a brief description of your current mood.
+2. **Sentiment Analysis**: Utilizing TensorFlow and natural language processing techniques, Dorothea AI comprehends the emotion associated with your description.
+3. **Personalized Recommendation**: Based on sentiment analysis, Dorothea AI carefully selects songs from Taylor Swift's discography that match your emotional state.
+4. **Customized Playlist**: The AI presents you with a personalized playlist, ready to be enjoyed.
 
-## Executando o Projeto
+## Running the Project
 
-Caso você queira executar o Dorothea IA em sua máquina local, siga estas etapas:
+If you wish to run Dorothea AI on your local machine, follow these steps:
 
-1. **Clonagem do Repositório**: Clone este repositório em seu ambiente local.
+1. **Repository Cloning**: Clone this repository to your local environment.
 
    ```
    git clone https://github.com/thethiago27/dorothea_ia
    ```
 
-2. **Instalação de Dependências**: Navegue até o diretório do projeto e instale as dependências necessárias.
+2. **Dependency Installation**: Navigate to the project directory and install the necessary dependencies.
 
    ```
    pip install -r requirements.txt
    ```
 
-3. **Execução do Projeto**: Execute o aplicativo.
+3. **Project Execution**: Run the application.
 
    ```
    python train.py
    ```
 
-Lembre-se de que essas instruções são gerais e podem variar dependendo do ambiente e das configurações específicas.
+Please remember that these instructions are general and might vary depending on your environment and specific settings.
 
-## Contribuição
+## Contribution
 
-Se você deseja contribuir para o projeto, fique à vontade para enviar pull requests com novos recursos, melhorias no código, correções de bugs e mais. Juntos, podemos aprimorar a experiência de recomendação de músicas com base no humor.
+If you'd like to contribute to the project, feel free to submit pull requests with new features, code improvements, bug fixes, and more. Together, we can enhance the music recommendation experience based on mood.
 
-## Aviso
+## Disclaimer
 
-O Dorothea IA é uma criação independente e não possui afiliação oficial com Taylor Swift ou suas gravadoras. Este projeto foi desenvolvido apenas para fins educacionais e de entretenimento.
+Dorothea AI is an independent creation and is not officially affiliated with Taylor Swift or her record labels. This project was developed solely for educational and entertainment purposes.
 
-Divirta-se descobrindo e redescobrindo músicas da Taylor Swift que combinam perfeitamente com suas emoções, cortesia do Dorothea IA!
+Enjoy discovering and rediscovering Taylor Swift's songs that harmonize perfectly with your emotions, courtesy of Dorothea AI!
