@@ -1,0 +1,67 @@
+# Default configuration for Dorothea AI
+# Taylor Swift Song Recommendation System
+
+# Machine Learning Model Configuration
+model:
+  # Neural network architecture
+  hidden_layers: [128, 64, 32]
+  dropout_rate: 0.3
+  learning_rate: 0.001
+  epochs: 150
+  batch_size: 32
+  early_stopping_patience: 15
+
+# Data Processing Configuration
+data:
+  # Path to the Taylor Swift Spotify dataset
+  dataset_path: "data-train/taylor_swift_spotify.csv"
+  
+  # Output directory for processed data
+  output_path: "data/processed"
+  
+  # Albums to exclude from training/recommendations
+  album_blocklist:
+    - "reputation Stadium Tour Surprise Song Playlist"
+    - "Speak Now World Tour Live"
+    - "Live From Clear Channel Stripped 2008"
+    - "Midnights (3am Edition)"
+    - "evermore"
+    - "folklore"
+  
+  # Thresholds for mood classification levels
+  mood_thresholds:
+    very_low: 0.2
+    low: 0.4
+    neutral: 0.6
+    high: 0.8
+  
+  # Audio features to use for mood classification
+  feature_columns:
+    - valence
+    - energy
+    - danceability
+    - acousticness
+    - tempo
+
+# Recommendation Engine Configuration
+recommendation:
+  # Default number of recommendations to return
+  default_limit: 10
+  
+  # Similarity metric for ranking recommendations
+  similarity_metric: "cosine"
+  
+  # Minimum confidence score for recommendations
+  min_confidence: 0.5
+
+# Logging Configuration
+logging:
+  # Log level: DEBUG, INFO, WARNING, ERROR, CRITICAL
+  level: "INFO"
+  
+  # Log format: json or text
+  format: "json"
+
+# Model Versioning
+versioning:
+  model_version: "2.0.0"
