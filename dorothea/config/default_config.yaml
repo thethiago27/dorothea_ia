@@ -27,6 +27,11 @@ data:
     - "Midnights (3am Edition)"
     - "evermore"
     - "folklore"
+    - "Midnights"
+    - "Speak Now (Deluxe Package)"
+    - "1989"
+    - "1989 (Deluxe)"
+    - "1989 (Taylor's Version)"
   
   # Thresholds for mood classification levels
   mood_thresholds:
@@ -65,3 +70,10 @@ logging:
 # Model Versioning
 versioning:
   model_version: "2.0.0"
+
+# API Configuration
+api:
+  host: "0.0.0.0"
+  port: 8000
+  debug: false
+  cors_origins: ["*"]
