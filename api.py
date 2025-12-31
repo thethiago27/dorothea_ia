@@ -78,7 +78,7 @@ app.include_router(router, prefix="/api/v1")
 app.include_router(router)
 
 
-@app.on_event("startup")
+@app.lifespan("startup")
 async def startup_event():
     """Initialize the application on startup."""
     print("🎵 Starting Dorothea AI API...")
@@ -92,14 +92,3 @@ async def startup_event():
         print("📚 API docs available at: http://localhost:8000/docs")
     except Exception as e:
         print(f"❌ Failed to initialize: {e}")
-
-
-if __name__ == "__main__":
-    import uvicorn
-    
-    uvicorn.run(
-        "api:app",
-        host="0.0.0.0",
-        port=8000,
-        reload=True
-    )

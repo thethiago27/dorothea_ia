@@ -1,0 +1,5224 @@
+{
+  "0": {
+    "internal_id": 0,
+    "spotify_id": "6dODwocEuGzHAavXqTbwHv",
+    "uri": "spotify:track:6dODwocEuGzHAavXqTbwHv",
+    "name": "Fortnight (feat. Post Malone)",
+    "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+    "mood_vector": {
+      "valence": 0.281,
+      "energy": 0.386,
+      "danceability": 0.504,
+      "acousticness": 0.502,
+      "tempo_normalized": 0.7680159999999999
+    }
+  },
+  "1": {
+    "internal_id": 1,
+    "spotify_id": "4PdLaGZubp4lghChqp8erB",
+    "uri": "spotify:track:4PdLaGZubp4lghChqp8erB",
+    "name": "The Tortured Poets Department",
+    "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+    "mood_vector": {
+      "valence": 0.292,
+      "energy": 0.428,
+      "danceability": 0.604,
+      "acousticness": 0.0483,
+      "tempo_normalized": 0.441036
+    }
+  },
+  "2": {
+    "internal_id": 2,
+    "spotify_id": "7uGYWMwRy24dm7RUDDhUlD",
+    "uri": "spotify:track:7uGYWMwRy24dm7RUDDhUlD",
+    "name": "My Boy Only Breaks His Favorite Toys",
+    "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+    "mood_vector": {
+      "valence": 0.481,
+      "energy": 0.563,
+      "danceability": 0.596,
+      "acousticness": 0.137,
+      "tempo_normalized": 0.38829199999999997
+    }
+  },
+  "3": {
+    "internal_id": 3,
+    "spotify_id": "1kbEbBdEgQdQeLXCJh28pJ",
+    "uri": "spotify:track:1kbEbBdEgQdQeLXCJh28pJ",
+    "name": "Down Bad",
+    "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+    "mood_vector": {
+      "valence": 0.168,
+      "energy": 0.366,
+      "danceability": 0.541,
+      "acousticness": 0.56,
+      "tempo_normalized": 0.638828
+    }
+  },
+  "4": {
+    "internal_id": 4,
+    "spotify_id": "7wAkQFShJ27V8362MqevQr",
+    "uri": "spotify:track:7wAkQFShJ27V8362MqevQr",
+    "name": "So Long, London",
+    "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+    "mood_vector": {
+      "valence": 0.248,
+      "energy": 0.533,
+      "danceability": 0.423,
+      "acousticness": 0.73,
+      "tempo_normalized": 0.640872
+    }
+  },
+  "5": {
+    "internal_id": 5,
+    "spotify_id": "4QMgEffJQuKtjCNvqfRZ0m",
+    "uri": "spotify:track:4QMgEffJQuKtjCNvqfRZ0m",
+    "name": "But Daddy I Love Him",
+    "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+    "mood_vector": {
+      "valence": 0.438,
+      "energy": 0.72,
+      "danceability": 0.521,
+      "acousticness": 0.384,
+      "tempo_normalized": 0.319772
+    }
+  },
+  "6": {
+    "internal_id": 6,
+    "spotify_id": "7IWcDWOfiooH5hRs9XOVYz",
+    "uri": "spotify:track:7IWcDWOfiooH5hRs9XOVYz",
+    "name": "Fresh Out The Slammer",
+    "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+    "mood_vector": {
+      "valence": 0.34,
+      "energy": 0.483,
+      "danceability": 0.33,
+      "acousticness": 0.624,
+      "tempo_normalized": 0.34846
+    }
+  },
+  "7": {
+    "internal_id": 7,
+    "spotify_id": "5ExOm0dh4NyRyAdSAO9hyM",
+    "uri": "spotify:track:5ExOm0dh4NyRyAdSAO9hyM",
+    "name": "Florida!!! (feat. Florence + The Machine)",
+    "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+    "mood_vector": {
+      "valence": 0.398,
+      "energy": 0.573,
+      "danceability": 0.533,
+      "acousticness": 0.178,
+      "tempo_normalized": 0.600352
+    }
+  },
+  "8": {
+    "internal_id": 8,
+    "spotify_id": "799KrpEbhZp0MHeiA8YK9P",
+    "uri": "spotify:track:799KrpEbhZp0MHeiA8YK9P",
+    "name": "Guilty as Sin?",
+    "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+    "mood_vector": {
+      "valence": 0.487,
+      "energy": 0.428,
+      "danceability": 0.626,
+      "acousticness": 0.607,
+      "tempo_normalized": 0.3798
+    }
+  },
+  "9": {
+    "internal_id": 9,
+    "spotify_id": "2d8UxVNhJinc8uat9PoM9y",
+    "uri": "spotify:track:2d8UxVNhJinc8uat9PoM9y",
+    "name": "Who’s Afraid of Little Old Me?",
+    "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+    "mood_vector": {
+      "valence": 0.238,
+      "energy": 0.338,
+      "danceability": 0.606,
+      "acousticness": 0.315,
+      "tempo_normalized": 0.47952
+    }
+  },
+  "10": {
+    "internal_id": 10,
+    "spotify_id": "5chnRTB9qMK3W1M41SnU9s",
+    "uri": "spotify:track:5chnRTB9qMK3W1M41SnU9s",
+    "name": "I Can Fix Him (No Really I Can)",
+    "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+    "mood_vector": {
+      "valence": 0.318,
+      "energy": 0.257,
+      "danceability": 0.661,
+      "acousticness": 0.768,
+      "tempo_normalized": 0.427584
+    }
+  },
+  "11": {
+    "internal_id": 11,
+    "spotify_id": "3YkNIrAvbKNrrwwEd7NVLl",
+    "uri": "spotify:track:3YkNIrAvbKNrrwwEd7NVLl",
+    "name": "loml",
+    "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+    "mood_vector": {
+      "valence": 0.195,
+      "energy": 0.272,
+      "danceability": 0.423,
+      "acousticness": 0.858,
+      "tempo_normalized": 0.314156
+    }
+  },
+  "12": {
+    "internal_id": 12,
+    "spotify_id": "2fPvQfGQEZOKtJ9qXeL4x8",
+    "uri": "spotify:track:2fPvQfGQEZOKtJ9qXeL4x8",
+    "name": "I Can Do It With a Broken Heart",
+    "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+    "mood_vector": {
+      "valence": 0.22,
+      "energy": 0.751,
+      "danceability": 0.701,
+      "acousticness": 0.123,
+      "tempo_normalized": 0.519976
+    }
+  },
+  "13": {
+    "internal_id": 13,
+    "spotify_id": "1xtw1krCR6Dw2KwkXw5z63",
+    "uri": "spotify:track:1xtw1krCR6Dw2KwkXw5z63",
+    "name": "The Smallest Man Who Ever Lived",
+    "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+    "mood_vector": {
+      "valence": 0.263,
+      "energy": 0.41,
+      "danceability": 0.426,
+      "acousticness": 0.52,
+      "tempo_normalized": 0.569508
+    }
+  },
+  "14": {
+    "internal_id": 14,
+    "spotify_id": "1tuNqJOtRQVHvONR8Lg3MZ",
+    "uri": "spotify:track:1tuNqJOtRQVHvONR8Lg3MZ",
+    "name": "The Alchemy",
+    "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+    "mood_vector": {
+      "valence": 0.353,
+      "energy": 0.421,
+      "danceability": 0.64,
+      "acousticness": 0.422,
+      "tempo_normalized": 0.40022399999999997
+    }
+  },
+  "15": {
+    "internal_id": 15,
+    "spotify_id": "4d9PtIEVij9jW5OaLinH66",
+    "uri": "spotify:track:4d9PtIEVij9jW5OaLinH66",
+    "name": "Clara Bow",
+    "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+    "mood_vector": {
+      "valence": 0.214,
+      "energy": 0.318,
+      "danceability": 0.686,
+      "acousticness": 0.636,
+      "tempo_normalized": 0.416352
+    }
+  },
+  "16": {
+    "internal_id": 16,
+    "spotify_id": "62E2nR0od0M5HYxuYLaDz7",
+    "uri": "spotify:track:62E2nR0od0M5HYxuYLaDz7",
+    "name": "The Black Dog",
+    "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+    "mood_vector": {
+      "valence": 0.23,
+      "energy": 0.27,
+      "danceability": 0.527,
+      "acousticness": 0.707,
+      "tempo_normalized": 0.616168
+    }
+  },
+  "17": {
+    "internal_id": 17,
+    "spotify_id": "1kcwpPDQnqEqmezzXdJTCP",
+    "uri": "spotify:track:1kcwpPDQnqEqmezzXdJTCP",
+    "name": "imgonnagetyouback",
+    "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+    "mood_vector": {
+      "valence": 0.15,
+      "energy": 0.391,
+      "danceability": 0.784,
+      "acousticness": 0.608,
+      "tempo_normalized": 0.44002800000000003
+    }
+  },
+  "18": {
+    "internal_id": 18,
+    "spotify_id": "4EF6IyONolQy0bIQXm2EmX",
+    "uri": "spotify:track:4EF6IyONolQy0bIQXm2EmX",
+    "name": "The Albatross",
+    "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+    "mood_vector": {
+      "valence": 0.292,
+      "energy": 0.479,
+      "danceability": 0.352,
+      "acousticness": 0.655,
+      "tempo_normalized": 0.688052
+    }
+  },
+  "19": {
+    "internal_id": 19,
+    "spotify_id": "1rmEsOezwf2lmIZTMAO5Ag",
+    "uri": "spotify:track:1rmEsOezwf2lmIZTMAO5Ag",
+    "name": "Chloe or Sam or Sophia or Marcus",
+    "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+    "mood_vector": {
+      "valence": 0.218,
+      "energy": 0.451,
+      "danceability": 0.516,
+      "acousticness": 0.78,
+      "tempo_normalized": 0.28106400000000004
+    }
+  },
+  "20": {
+    "internal_id": 20,
+    "spotify_id": "5Bedn0svl0ZD7RGmJkmKKw",
+    "uri": "spotify:track:5Bedn0svl0ZD7RGmJkmKKw",
+    "name": "How Did It End?",
+    "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+    "mood_vector": {
+      "valence": 0.273,
+      "energy": 0.379,
+      "danceability": 0.492,
+      "acousticness": 0.785,
+      "tempo_normalized": 0.335972
+    }
+  },
+  "21": {
+    "internal_id": 21,
+    "spotify_id": "7Mts0OfPorF4iwOomvfqn1",
+    "uri": "spotify:track:7Mts0OfPorF4iwOomvfqn1",
+    "name": "So High School",
+    "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+    "mood_vector": {
+      "valence": 0.293,
+      "energy": 0.866,
+      "danceability": 0.366,
+      "acousticness": 0.0274,
+      "tempo_normalized": 0.70428
+    }
+  },
+  "22": {
+    "internal_id": 22,
+    "spotify_id": "3hlGuz3loYoLfI3bpwieWq",
+    "uri": "spotify:track:3hlGuz3loYoLfI3bpwieWq",
+    "name": "I Hate It Here",
+    "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+    "mood_vector": {
+      "valence": 0.297,
+      "energy": 0.562,
+      "danceability": 0.485,
+      "acousticness": 0.717,
+      "tempo_normalized": 0.423812
+    }
+  },
+  "23": {
+    "internal_id": 23,
+    "spotify_id": "7ogK4lJDVDMU6A6vYR5rvD",
+    "uri": "spotify:track:7ogK4lJDVDMU6A6vYR5rvD",
+    "name": "thanK you aIMee",
+    "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+    "mood_vector": {
+      "valence": 0.252,
+      "energy": 0.541,
+      "danceability": 0.609,
+      "acousticness": 0.609,
+      "tempo_normalized": 0.383988
+    }
+  },
+  "24": {
+    "internal_id": 24,
+    "spotify_id": "1Zai5UJ2di3qEuR2HeT2s8",
+    "uri": "spotify:track:1Zai5UJ2di3qEuR2HeT2s8",
+    "name": "I Look in People's Windows",
+    "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+    "mood_vector": {
+      "valence": 0.385,
+      "energy": 0.274,
+      "danceability": 0.763,
+      "acousticness": 0.69,
+      "tempo_normalized": 0.363184
+    }
+  },
+  "25": {
+    "internal_id": 25,
+    "spotify_id": "18WFFUIsewmA8g31KAeo3e",
+    "uri": "spotify:track:18WFFUIsewmA8g31KAeo3e",
+    "name": "The Prophecy",
+    "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+    "mood_vector": {
+      "valence": 0.535,
+      "energy": 0.525,
+      "danceability": 0.421,
+      "acousticness": 0.825,
+      "tempo_normalized": 0.671708
+    }
+  },
+  "26": {
+    "internal_id": 26,
+    "spotify_id": "0g4fMVo4JjwnIpTfFfLdxS",
+    "uri": "spotify:track:0g4fMVo4JjwnIpTfFfLdxS",
+    "name": "Cassandra",
+    "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+    "mood_vector": {
+      "valence": 0.514,
+      "energy": 0.587,
+      "danceability": 0.587,
+      "acousticness": 0.806,
+      "tempo_normalized": 0.559852
+    }
+  },
+  "27": {
+    "internal_id": 27,
+    "spotify_id": "3zMDGj4D8ogaYgAIZPeU7S",
+    "uri": "spotify:track:3zMDGj4D8ogaYgAIZPeU7S",
+    "name": "Peter",
+    "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+    "mood_vector": {
+      "valence": 0.29,
+      "energy": 0.376,
+      "danceability": 0.342,
+      "acousticness": 0.805,
+      "tempo_normalized": 0.7074360000000001
+    }
+  },
+  "28": {
+    "internal_id": 28,
+    "spotify_id": "2913xXOVAIDAqxzV2g4VcU",
+    "uri": "spotify:track:2913xXOVAIDAqxzV2g4VcU",
+    "name": "The Bolter",
+    "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+    "mood_vector": {
+      "valence": 0.481,
+      "energy": 0.586,
+      "danceability": 0.455,
+      "acousticness": 0.638,
+      "tempo_normalized": 0.734776
+    }
+  },
+  "29": {
+    "internal_id": 29,
+    "spotify_id": "2CnjDMdpRjlWv04Xk3s6MW",
+    "uri": "spotify:track:2CnjDMdpRjlWv04Xk3s6MW",
+    "name": "Robin",
+    "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+    "mood_vector": {
+      "valence": 0.158,
+      "energy": 0.386,
+      "danceability": 0.476,
+      "acousticness": 0.791,
+      "tempo_normalized": 0.55306
+    }
+  },
+  "30": {
+    "internal_id": 30,
+    "spotify_id": "1DTRUYVd8rYpla9hhVVwjo",
+    "uri": "spotify:track:1DTRUYVd8rYpla9hhVVwjo",
+    "name": "The Manuscript",
+    "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+    "mood_vector": {
+      "valence": 0.436,
+      "energy": 0.256,
+      "danceability": 0.509,
+      "acousticness": 0.901,
+      "tempo_normalized": 0.376736
+    }
+  },
+  "31": {
+    "internal_id": 31,
+    "spotify_id": "2OzhQlSqBEmt7hmkYxfT6m",
+    "uri": "spotify:track:2OzhQlSqBEmt7hmkYxfT6m",
+    "name": "Fortnight (feat. Post Malone)",
+    "album": "THE TORTURED POETS DEPARTMENT",
+    "mood_vector": {
+      "valence": 0.281,
+      "energy": 0.386,
+      "danceability": 0.504,
+      "acousticness": 0.502,
+      "tempo_normalized": 0.7680159999999999
+    }
+  },
+  "32": {
+    "internal_id": 32,
+    "spotify_id": "3NMrVbIVWT3fPXBj0rNDKG",
+    "uri": "spotify:track:3NMrVbIVWT3fPXBj0rNDKG",
+    "name": "The Tortured Poets Department",
+    "album": "THE TORTURED POETS DEPARTMENT",
+    "mood_vector": {
+      "valence": 0.292,
+      "energy": 0.428,
+      "danceability": 0.604,
+      "acousticness": 0.0483,
+      "tempo_normalized": 0.441036
+    }
+  },
+  "33": {
+    "internal_id": 33,
+    "spotify_id": "2XXwLdtuAcE0HSCu61ijAb",
+    "uri": "spotify:track:2XXwLdtuAcE0HSCu61ijAb",
+    "name": "My Boy Only Breaks His Favorite Toys",
+    "album": "THE TORTURED POETS DEPARTMENT",
+    "mood_vector": {
+      "valence": 0.481,
+      "energy": 0.563,
+      "danceability": 0.596,
+      "acousticness": 0.137,
+      "tempo_normalized": 0.38829199999999997
+    }
+  },
+  "34": {
+    "internal_id": 34,
+    "spotify_id": "2F3N9tdombb64aW6VtZOdo",
+    "uri": "spotify:track:2F3N9tdombb64aW6VtZOdo",
+    "name": "Down Bad",
+    "album": "THE TORTURED POETS DEPARTMENT",
+    "mood_vector": {
+      "valence": 0.168,
+      "energy": 0.366,
+      "danceability": 0.541,
+      "acousticness": 0.56,
+      "tempo_normalized": 0.638828
+    }
+  },
+  "35": {
+    "internal_id": 35,
+    "spotify_id": "3Vevii7qKqrmW8CcyzBHDl",
+    "uri": "spotify:track:3Vevii7qKqrmW8CcyzBHDl",
+    "name": "So Long, London",
+    "album": "THE TORTURED POETS DEPARTMENT",
+    "mood_vector": {
+      "valence": 0.248,
+      "energy": 0.533,
+      "danceability": 0.423,
+      "acousticness": 0.73,
+      "tempo_normalized": 0.640872
+    }
+  },
+  "36": {
+    "internal_id": 36,
+    "spotify_id": "5og4Qzt92jJzVDkOtSEilb",
+    "uri": "spotify:track:5og4Qzt92jJzVDkOtSEilb",
+    "name": "But Daddy I Love Him",
+    "album": "THE TORTURED POETS DEPARTMENT",
+    "mood_vector": {
+      "valence": 0.438,
+      "energy": 0.72,
+      "danceability": 0.521,
+      "acousticness": 0.384,
+      "tempo_normalized": 0.319772
+    }
+  },
+  "37": {
+    "internal_id": 37,
+    "spotify_id": "3fO566xJgwxIa3qGCGBvIC",
+    "uri": "spotify:track:3fO566xJgwxIa3qGCGBvIC",
+    "name": "Fresh Out The Slammer",
+    "album": "THE TORTURED POETS DEPARTMENT",
+    "mood_vector": {
+      "valence": 0.34,
+      "energy": 0.483,
+      "danceability": 0.33,
+      "acousticness": 0.624,
+      "tempo_normalized": 0.34846
+    }
+  },
+  "38": {
+    "internal_id": 38,
+    "spotify_id": "3ZVFcD8Wlw9T9klGqmJf9F",
+    "uri": "spotify:track:3ZVFcD8Wlw9T9klGqmJf9F",
+    "name": "Florida!!! (feat. Florence + The Machine)",
+    "album": "THE TORTURED POETS DEPARTMENT",
+    "mood_vector": {
+      "valence": 0.398,
+      "energy": 0.573,
+      "danceability": 0.533,
+      "acousticness": 0.178,
+      "tempo_normalized": 0.600352
+    }
+  },
+  "39": {
+    "internal_id": 39,
+    "spotify_id": "0W0iAC1VGlB82PI6elxFYf",
+    "uri": "spotify:track:0W0iAC1VGlB82PI6elxFYf",
+    "name": "Guilty as Sin?",
+    "album": "THE TORTURED POETS DEPARTMENT",
+    "mood_vector": {
+      "valence": 0.487,
+      "energy": 0.428,
+      "danceability": 0.626,
+      "acousticness": 0.607,
+      "tempo_normalized": 0.3798
+    }
+  },
+  "40": {
+    "internal_id": 40,
+    "spotify_id": "36t6frENUtCYKuZus6aYDO",
+    "uri": "spotify:track:36t6frENUtCYKuZus6aYDO",
+    "name": "Who’s Afraid of Little Old Me?",
+    "album": "THE TORTURED POETS DEPARTMENT",
+    "mood_vector": {
+      "valence": 0.238,
+      "energy": 0.338,
+      "danceability": 0.606,
+      "acousticness": 0.315,
+      "tempo_normalized": 0.47952
+    }
+  },
+  "41": {
+    "internal_id": 41,
+    "spotify_id": "2h3MDMf8sd9s4XIzpTBIjX",
+    "uri": "spotify:track:2h3MDMf8sd9s4XIzpTBIjX",
+    "name": "I Can Fix Him (No Really I Can)",
+    "album": "THE TORTURED POETS DEPARTMENT",
+    "mood_vector": {
+      "valence": 0.318,
+      "energy": 0.257,
+      "danceability": 0.661,
+      "acousticness": 0.768,
+      "tempo_normalized": 0.427584
+    }
+  },
+  "42": {
+    "internal_id": 42,
+    "spotify_id": "6RSG1dKPV5gEvILwJb4QtS",
+    "uri": "spotify:track:6RSG1dKPV5gEvILwJb4QtS",
+    "name": "loml",
+    "album": "THE TORTURED POETS DEPARTMENT",
+    "mood_vector": {
+      "valence": 0.195,
+      "energy": 0.272,
+      "danceability": 0.423,
+      "acousticness": 0.858,
+      "tempo_normalized": 0.314156
+    }
+  },
+  "43": {
+    "internal_id": 43,
+    "spotify_id": "4q5YezDOIPcoLr8R81x9qy",
+    "uri": "spotify:track:4q5YezDOIPcoLr8R81x9qy",
+    "name": "I Can Do It With a Broken Heart",
+    "album": "THE TORTURED POETS DEPARTMENT",
+    "mood_vector": {
+      "valence": 0.22,
+      "energy": 0.751,
+      "danceability": 0.701,
+      "acousticness": 0.123,
+      "tempo_normalized": 0.519976
+    }
+  },
+  "44": {
+    "internal_id": 44,
+    "spotify_id": "2v1ivOOsgn64g5OywuH55L",
+    "uri": "spotify:track:2v1ivOOsgn64g5OywuH55L",
+    "name": "The Smallest Man Who Ever Lived",
+    "album": "THE TORTURED POETS DEPARTMENT",
+    "mood_vector": {
+      "valence": 0.263,
+      "energy": 0.41,
+      "danceability": 0.426,
+      "acousticness": 0.52,
+      "tempo_normalized": 0.569508
+    }
+  },
+  "45": {
+    "internal_id": 45,
+    "spotify_id": "1dhMTsEZz6ZEquGvmzVoHn",
+    "uri": "spotify:track:1dhMTsEZz6ZEquGvmzVoHn",
+    "name": "The Alchemy",
+    "album": "THE TORTURED POETS DEPARTMENT",
+    "mood_vector": {
+      "valence": 0.353,
+      "energy": 0.421,
+      "danceability": 0.64,
+      "acousticness": 0.422,
+      "tempo_normalized": 0.40022399999999997
+    }
+  },
+  "46": {
+    "internal_id": 46,
+    "spotify_id": "1UlhrRvYzbHEyugEDspXUB",
+    "uri": "spotify:track:1UlhrRvYzbHEyugEDspXUB",
+    "name": "Clara Bow",
+    "album": "THE TORTURED POETS DEPARTMENT",
+    "mood_vector": {
+      "valence": 0.214,
+      "energy": 0.318,
+      "danceability": 0.686,
+      "acousticness": 0.636,
+      "tempo_normalized": 0.416352
+    }
+  },
+  "47": {
+    "internal_id": 47,
+    "spotify_id": "4WUepByoeqcedHoYhSNHRt",
+    "uri": "spotify:track:4WUepByoeqcedHoYhSNHRt",
+    "name": "Welcome To New York (Taylor's Version)",
+    "album": "1989 (Taylor's Version) [Deluxe]",
+    "mood_vector": {
+      "valence": 0.685,
+      "energy": 0.602,
+      "danceability": 0.76,
+      "acousticness": 0.00661,
+      "tempo_normalized": 0.46795600000000004
+    }
+  },
+  "48": {
+    "internal_id": 48,
+    "spotify_id": "0108kcWLnn2HlH2kedi1gn",
+    "uri": "spotify:track:0108kcWLnn2HlH2kedi1gn",
+    "name": "Blank Space (Taylor's Version)",
+    "album": "1989 (Taylor's Version) [Deluxe]",
+    "mood_vector": {
+      "valence": 0.71,
+      "energy": 0.719,
+      "danceability": 0.732,
+      "acousticness": 0.0901,
+      "tempo_normalized": 0.38414
+    }
+  },
+  "49": {
+    "internal_id": 49,
+    "spotify_id": "3Vpk1hfMAQme8VJ0SNRSkd",
+    "uri": "spotify:track:3Vpk1hfMAQme8VJ0SNRSkd",
+    "name": "Style (Taylor's Version)",
+    "album": "1989 (Taylor's Version) [Deluxe]",
+    "mood_vector": {
+      "valence": 0.298,
+      "energy": 0.821,
+      "danceability": 0.514,
+      "acousticness": 0.000456,
+      "tempo_normalized": 0.379536
+    }
+  },
+  "50": {
+    "internal_id": 50,
+    "spotify_id": "1OcSfkeCg9hRC2sFKB4IMJ",
+    "uri": "spotify:track:1OcSfkeCg9hRC2sFKB4IMJ",
+    "name": "Out Of The Woods (Taylor's Version)",
+    "album": "1989 (Taylor's Version) [Deluxe]",
+    "mood_vector": {
+      "valence": 0.184,
+      "energy": 0.884,
+      "danceability": 0.544,
+      "acousticness": 0.000466,
+      "tempo_normalized": 0.367924
+    }
+  },
+  "51": {
+    "internal_id": 51,
+    "spotify_id": "2k0ZEeAqzvYMcx9Qt5aClQ",
+    "uri": "spotify:track:2k0ZEeAqzvYMcx9Qt5aClQ",
+    "name": "All You Had To Do Was Stay (Taylor's Version)",
+    "album": "1989 (Taylor's Version) [Deluxe]",
+    "mood_vector": {
+      "valence": 0.54,
+      "energy": 0.713,
+      "danceability": 0.589,
+      "acousticness": 0.000778,
+      "tempo_normalized": 0.388276
+    }
+  },
+  "52": {
+    "internal_id": 52,
+    "spotify_id": "50yNTF0Od55qnHLxYsA5Pw",
+    "uri": "spotify:track:50yNTF0Od55qnHLxYsA5Pw",
+    "name": "Shake It Off (Taylor's Version)",
+    "album": "1989 (Taylor's Version) [Deluxe]",
+    "mood_vector": {
+      "valence": 0.903,
+      "energy": 0.805,
+      "danceability": 0.632,
+      "acousticness": 0.0112,
+      "tempo_normalized": 0.640208
+    }
+  },
+  "53": {
+    "internal_id": 53,
+    "spotify_id": "3FxJDucHWdw6caWTKO5b23",
+    "uri": "spotify:track:3FxJDucHWdw6caWTKO5b23",
+    "name": "I Wish You Would (Taylor's Version)",
+    "album": "1989 (Taylor's Version) [Deluxe]",
+    "mood_vector": {
+      "valence": 0.523,
+      "energy": 0.853,
+      "danceability": 0.671,
+      "acousticness": 0.00388,
+      "tempo_normalized": 0.472128
+    }
+  },
+  "54": {
+    "internal_id": 54,
+    "spotify_id": "7oZONwFiFIErZcXAtTu7FY",
+    "uri": "spotify:track:7oZONwFiFIErZcXAtTu7FY",
+    "name": "Bad Blood (Taylor's Version)",
+    "album": "1989 (Taylor's Version) [Deluxe]",
+    "mood_vector": {
+      "valence": 0.347,
+      "energy": 0.711,
+      "danceability": 0.624,
+      "acousticness": 0.0369,
+      "tempo_normalized": 0.6799959999999999
+    }
+  },
+  "55": {
+    "internal_id": 55,
+    "spotify_id": "27exgla7YBw9DUNNcTIpjy",
+    "uri": "spotify:track:27exgla7YBw9DUNNcTIpjy",
+    "name": "Wildest Dreams (Taylor's Version)",
+    "album": "1989 (Taylor's Version) [Deluxe]",
+    "mood_vector": {
+      "valence": 0.539,
+      "energy": 0.663,
+      "danceability": 0.587,
+      "acousticness": 0.0348,
+      "tempo_normalized": 0.559972
+    }
+  },
+  "56": {
+    "internal_id": 56,
+    "spotify_id": "733OhaXQIHY7BKtY3vnSkn",
+    "uri": "spotify:track:733OhaXQIHY7BKtY3vnSkn",
+    "name": "How You Get The Girl (Taylor's Version)",
+    "album": "1989 (Taylor's Version) [Deluxe]",
+    "mood_vector": {
+      "valence": 0.519,
+      "energy": 0.67,
+      "danceability": 0.761,
+      "acousticness": 0.00198,
+      "tempo_normalized": 0.480056
+    }
+  },
+  "57": {
+    "internal_id": 57,
+    "spotify_id": "4WBEj8TeGtRPNJdOmT3WJW",
+    "uri": "spotify:track:4WBEj8TeGtRPNJdOmT3WJW",
+    "name": "This Love (Taylor’s Version)",
+    "album": "1989 (Taylor's Version) [Deluxe]",
+    "mood_vector": {
+      "valence": 0.0524,
+      "energy": 0.494,
+      "danceability": 0.47,
+      "acousticness": 0.302,
+      "tempo_normalized": 0.576156
+    }
+  },
+  "58": {
+    "internal_id": 58,
+    "spotify_id": "1ULabO0PEsdJekqVH6G10G",
+    "uri": "spotify:track:1ULabO0PEsdJekqVH6G10G",
+    "name": "I Know Places (Taylor's Version)",
+    "album": "1989 (Taylor's Version) [Deluxe]",
+    "mood_vector": {
+      "valence": 0.626,
+      "energy": 0.807,
+      "danceability": 0.572,
+      "acousticness": 0.0846,
+      "tempo_normalized": 0.64006
+    }
+  },
+  "59": {
+    "internal_id": 59,
+    "spotify_id": "0lKUBmEyQfzsQHozyeXzES",
+    "uri": "spotify:track:0lKUBmEyQfzsQHozyeXzES",
+    "name": "Clean (Taylor's Version)",
+    "album": "1989 (Taylor's Version) [Deluxe]",
+    "mood_vector": {
+      "valence": 0.267,
+      "energy": 0.379,
+      "danceability": 0.782,
+      "acousticness": 0.297,
+      "tempo_normalized": 0.41596
+    }
+  },
+  "60": {
+    "internal_id": 60,
+    "spotify_id": "6HRsJu8vcnzYDN4t0570FY",
+    "uri": "spotify:track:6HRsJu8vcnzYDN4t0570FY",
+    "name": "Wonderland (Taylor's Version)",
+    "album": "1989 (Taylor's Version) [Deluxe]",
+    "mood_vector": {
+      "valence": 0.32,
+      "energy": 0.703,
+      "danceability": 0.387,
+      "acousticness": 0.0105,
+      "tempo_normalized": 0.49272000000000005
+    }
+  },
+  "61": {
+    "internal_id": 61,
+    "spotify_id": "0TyGh27YQ5LknmiDhCzJiT",
+    "uri": "spotify:track:0TyGh27YQ5LknmiDhCzJiT",
+    "name": "You Are In Love (Taylor's Version)",
+    "album": "1989 (Taylor's Version) [Deluxe]",
+    "mood_vector": {
+      "valence": 0.401,
+      "energy": 0.509,
+      "danceability": 0.554,
+      "acousticness": 0.572,
+      "tempo_normalized": 0.34031599999999995
+    }
+  },
+  "62": {
+    "internal_id": 62,
+    "spotify_id": "5M787RexsAiVYjQusM98CV",
+    "uri": "spotify:track:5M787RexsAiVYjQusM98CV",
+    "name": "New Romantics (Taylor's Version)",
+    "album": "1989 (Taylor's Version) [Deluxe]",
+    "mood_vector": {
+      "valence": 0.724,
+      "energy": 0.848,
+      "danceability": 0.653,
+      "acousticness": 0.00516,
+      "tempo_normalized": 0.488068
+    }
+  },
+  "63": {
+    "internal_id": 63,
+    "spotify_id": "0CD7DzeCsuPJygddqlUVYa",
+    "uri": "spotify:track:0CD7DzeCsuPJygddqlUVYa",
+    "name": "\"Slut!\" (Taylor's Version) (From The Vault)",
+    "album": "1989 (Taylor's Version) [Deluxe]",
+    "mood_vector": {
+      "valence": 0.313,
+      "energy": 0.415,
+      "danceability": 0.621,
+      "acousticness": 0.33,
+      "tempo_normalized": 0.31191199999999997
+    }
+  },
+  "64": {
+    "internal_id": 64,
+    "spotify_id": "3CCRVu4F91Qp2mnGjmWBrf",
+    "uri": "spotify:track:3CCRVu4F91Qp2mnGjmWBrf",
+    "name": "Say Don't Go (Taylor's Version) (From The Vault)",
+    "album": "1989 (Taylor's Version) [Deluxe]",
+    "mood_vector": {
+      "valence": 0.186,
+      "energy": 0.539,
+      "danceability": 0.632,
+      "acousticness": 0.0684,
+      "tempo_normalized": 0.439848
+    }
+  },
+  "65": {
+    "internal_id": 65,
+    "spotify_id": "5QUIK7ZtziW8kGWo8RqopF",
+    "uri": "spotify:track:5QUIK7ZtziW8kGWo8RqopF",
+    "name": "Now That We Don't Talk (Taylor's Version) (From The Vault)",
+    "album": "1989 (Taylor's Version) [Deluxe]",
+    "mood_vector": {
+      "valence": 0.0768,
+      "energy": 0.509,
+      "danceability": 0.8,
+      "acousticness": 0.16,
+      "tempo_normalized": 0.439976
+    }
+  },
+  "66": {
+    "internal_id": 66,
+    "spotify_id": "6M9ppdfFjR1AbpUl3Y8DcV",
+    "uri": "spotify:track:6M9ppdfFjR1AbpUl3Y8DcV",
+    "name": "Suburban Legends (Taylor's Version) (From The Vault)",
+    "album": "1989 (Taylor's Version) [Deluxe]",
+    "mood_vector": {
+      "valence": 0.394,
+      "energy": 0.607,
+      "danceability": 0.695,
+      "acousticness": 0.212,
+      "tempo_normalized": 0.47217200000000004
+    }
+  },
+  "67": {
+    "internal_id": 67,
+    "spotify_id": "6IG3sQ8s9nfk6TUlVzRhbN",
+    "uri": "spotify:track:6IG3sQ8s9nfk6TUlVzRhbN",
+    "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
+    "album": "1989 (Taylor's Version) [Deluxe]",
+    "mood_vector": {
+      "valence": 0.153,
+      "energy": 0.651,
+      "danceability": 0.599,
+      "acousticness": 0.0486,
+      "tempo_normalized": 0.400004
+    }
+  },
+  "68": {
+    "internal_id": 68,
+    "spotify_id": "6qAcApH8obo8eqatCKUHd9",
+    "uri": "spotify:track:6qAcApH8obo8eqatCKUHd9",
+    "name": "Bad Blood (feat. Kendrick Lamar) (Taylor's Version)",
+    "album": "1989 (Taylor's Version) [Deluxe]",
+    "mood_vector": {
+      "valence": 0.197,
+      "energy": 0.644,
+      "danceability": 0.604,
+      "acousticness": 0.0143,
+      "tempo_normalized": 0.680352
+    }
+  },
+  "69": {
+    "internal_id": 69,
+    "spotify_id": "7G0gBu6nLdhFDPRLc0HdDG",
+    "uri": "spotify:track:7G0gBu6nLdhFDPRLc0HdDG",
+    "name": "Mine (Taylor's Version)",
+    "album": "Speak Now (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.5,
+      "energy": 0.793,
+      "danceability": 0.647,
+      "acousticness": 0.00314,
+      "tempo_normalized": 0.484404
+    }
+  },
+  "70": {
+    "internal_id": 70,
+    "spotify_id": "3MytWN8L7shNYzGl4tAKRp",
+    "uri": "spotify:track:3MytWN8L7shNYzGl4tAKRp",
+    "name": "Sparks Fly (Taylor’s Version)",
+    "album": "Speak Now (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.366,
+      "energy": 0.769,
+      "danceability": 0.605,
+      "acousticness": 0.0241,
+      "tempo_normalized": 0.45968400000000004
+    }
+  },
+  "71": {
+    "internal_id": 71,
+    "spotify_id": "79uDOz0zuuWS7HWxzMmTa2",
+    "uri": "spotify:track:79uDOz0zuuWS7HWxzMmTa2",
+    "name": "Back To December (Taylor's Version)",
+    "album": "Speak Now (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.235,
+      "energy": 0.635,
+      "danceability": 0.486,
+      "acousticness": 0.00705,
+      "tempo_normalized": 0.567472
+    }
+  },
+  "72": {
+    "internal_id": 72,
+    "spotify_id": "5xXqyjLicvEpch72qEryFT",
+    "uri": "spotify:track:5xXqyjLicvEpch72qEryFT",
+    "name": "Speak Now (Taylor's Version)",
+    "album": "Speak Now (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.598,
+      "energy": 0.686,
+      "danceability": 0.734,
+      "acousticness": 0.225,
+      "tempo_normalized": 0.476008
+    }
+  },
+  "73": {
+    "internal_id": 73,
+    "spotify_id": "1zU8j1x3yi9xalMF96pzKp",
+    "uri": "spotify:track:1zU8j1x3yi9xalMF96pzKp",
+    "name": "Dear John (Taylor's Version)",
+    "album": "Speak Now (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.115,
+      "energy": 0.468,
+      "danceability": 0.379,
+      "acousticness": 0.0327,
+      "tempo_normalized": 0.477788
+    }
+  },
+  "74": {
+    "internal_id": 74,
+    "spotify_id": "30Y4CV7A6YqtQtTTo7Ue4j",
+    "uri": "spotify:track:30Y4CV7A6YqtQtTTo7Ue4j",
+    "name": "Mean (Taylor's Version)",
+    "album": "Speak Now (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.596,
+      "energy": 0.7,
+      "danceability": 0.526,
+      "acousticness": 0.321,
+      "tempo_normalized": 0.655796
+    }
+  },
+  "75": {
+    "internal_id": 75,
+    "spotify_id": "6dTA6y0C2ReQklntzZl8l3",
+    "uri": "spotify:track:6dTA6y0C2ReQklntzZl8l3",
+    "name": "The Story Of Us (Taylor's Version)",
+    "album": "Speak Now (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.552,
+      "energy": 0.784,
+      "danceability": 0.516,
+      "acousticness": 0.00136,
+      "tempo_normalized": 0.559148
+    }
+  },
+  "76": {
+    "internal_id": 76,
+    "spotify_id": "2EFZ9emtKWEglWUQGEQ3P9",
+    "uri": "spotify:track:2EFZ9emtKWEglWUQGEQ3P9",
+    "name": "Never Grow Up (Taylor's Version)",
+    "album": "Speak Now (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.572,
+      "energy": 0.339,
+      "danceability": 0.684,
+      "acousticness": 0.867,
+      "tempo_normalized": 0.500216
+    }
+  },
+  "77": {
+    "internal_id": 77,
+    "spotify_id": "3sW3oSbzsfecv9XoUdGs7h",
+    "uri": "spotify:track:3sW3oSbzsfecv9XoUdGs7h",
+    "name": "Enchanted (Taylor's Version)",
+    "album": "Speak Now (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.227,
+      "energy": 0.553,
+      "danceability": 0.52,
+      "acousticness": 0.016,
+      "tempo_normalized": 0.327796
+    }
+  },
+  "78": {
+    "internal_id": 78,
+    "spotify_id": "0NwGC0v03ysCYINtg6ns58",
+    "uri": "spotify:track:0NwGC0v03ysCYINtg6ns58",
+    "name": "Better Than Revenge (Taylor's Version)",
+    "album": "Speak Now (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.659,
+      "energy": 0.893,
+      "danceability": 0.505,
+      "acousticness": 0.000795,
+      "tempo_normalized": 0.5836520000000001
+    }
+  },
+  "79": {
+    "internal_id": 79,
+    "spotify_id": "12nBPF4Rh4XLFJV0YLN7uj",
+    "uri": "spotify:track:12nBPF4Rh4XLFJV0YLN7uj",
+    "name": "Innocent (Taylor's Version)",
+    "album": "Speak Now (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.126,
+      "energy": 0.611,
+      "danceability": 0.524,
+      "acousticness": 0.0972,
+      "tempo_normalized": 0.534332
+    }
+  },
+  "80": {
+    "internal_id": 80,
+    "spotify_id": "4tMzIAFTFdqGBQLdfbPces",
+    "uri": "spotify:track:4tMzIAFTFdqGBQLdfbPces",
+    "name": "Haunted (Taylor's Version)",
+    "album": "Speak Now (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.371,
+      "energy": 0.916,
+      "danceability": 0.44,
+      "acousticness": 0.00552,
+      "tempo_normalized": 0.6481
+    }
+  },
+  "81": {
+    "internal_id": 81,
+    "spotify_id": "59KOoHFcw5XfICnO57holu",
+    "uri": "spotify:track:59KOoHFcw5XfICnO57holu",
+    "name": "Last Kiss (Taylor's Version)",
+    "album": "Speak Now (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.187,
+      "energy": 0.362,
+      "danceability": 0.557,
+      "acousticness": 0.443,
+      "tempo_normalized": 0.31829199999999996
+    }
+  },
+  "82": {
+    "internal_id": 82,
+    "spotify_id": "4hqJ4bSlYJOXb6Z4SRmzxs",
+    "uri": "spotify:track:4hqJ4bSlYJOXb6Z4SRmzxs",
+    "name": "Long Live (Taylor's Version)",
+    "album": "Speak Now (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.0984,
+      "energy": 0.628,
+      "danceability": 0.38,
+      "acousticness": 0.0162,
+      "tempo_normalized": 0.815304
+    }
+  },
+  "83": {
+    "internal_id": 83,
+    "spotify_id": "3yNJkriPzWjkkDAWHIAVUq",
+    "uri": "spotify:track:3yNJkriPzWjkkDAWHIAVUq",
+    "name": "Ours (Taylor’s Version)",
+    "album": "Speak Now (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.293,
+      "energy": 0.475,
+      "danceability": 0.539,
+      "acousticness": 0.42,
+      "tempo_normalized": 0.6392960000000001
+    }
+  },
+  "84": {
+    "internal_id": 84,
+    "spotify_id": "4evLyY5Ue1Wesc61t2KXAU",
+    "uri": "spotify:track:4evLyY5Ue1Wesc61t2KXAU",
+    "name": "Superman (Taylor’s Version)",
+    "album": "Speak Now (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.347,
+      "energy": 0.733,
+      "danceability": 0.537,
+      "acousticness": 0.00207,
+      "tempo_normalized": 0.527592
+    }
+  },
+  "85": {
+    "internal_id": 85,
+    "spotify_id": "4e3ZNTAV6PCrdYMUrUlMpQ",
+    "uri": "spotify:track:4e3ZNTAV6PCrdYMUrUlMpQ",
+    "name": "Electric Touch (feat. Fall Out Boy) (Taylor’s Version) (From The Vault)",
+    "album": "Speak Now (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.26,
+      "energy": 0.854,
+      "danceability": 0.547,
+      "acousticness": 0.018,
+      "tempo_normalized": 0.5242720000000001
+    }
+  },
+  "86": {
+    "internal_id": 86,
+    "spotify_id": "0zo975x58DlXbZllWvfYhg",
+    "uri": "spotify:track:0zo975x58DlXbZllWvfYhg",
+    "name": "When Emma Falls in Love (Taylor’s Version) (From The Vault)",
+    "album": "Speak Now (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.234,
+      "energy": 0.759,
+      "danceability": 0.524,
+      "acousticness": 0.168,
+      "tempo_normalized": 0.311516
+    }
+  },
+  "87": {
+    "internal_id": 87,
+    "spotify_id": "5kHMfzgLZP95O9NBy0ku4v",
+    "uri": "spotify:track:5kHMfzgLZP95O9NBy0ku4v",
+    "name": "I Can See You (Taylor’s Version) (From The Vault)",
+    "album": "Speak Now (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.813,
+      "energy": 0.768,
+      "danceability": 0.695,
+      "acousticness": 0.0577,
+      "tempo_normalized": 0.492216
+    }
+  },
+  "88": {
+    "internal_id": 88,
+    "spotify_id": "4ABYxlb92WBIjHu7TIKmml",
+    "uri": "spotify:track:4ABYxlb92WBIjHu7TIKmml",
+    "name": "Castles Crumbling (feat. Hayley Williams) (Taylor’s Version) (From The Vault)",
+    "album": "Speak Now (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.351,
+      "energy": 0.565,
+      "danceability": 0.578,
+      "acousticness": 0.342,
+      "tempo_normalized": 0.591124
+    }
+  },
+  "89": {
+    "internal_id": 89,
+    "spotify_id": "4s8BIKx4Zh6ryAEz8RTlaU",
+    "uri": "spotify:track:4s8BIKx4Zh6ryAEz8RTlaU",
+    "name": "Foolish One (Taylor’s Version) (From The Vault)",
+    "album": "Speak Now (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.557,
+      "energy": 0.613,
+      "danceability": 0.672,
+      "acousticness": 0.599,
+      "tempo_normalized": 0.388164
+    }
+  },
+  "90": {
+    "internal_id": 90,
+    "spotify_id": "1HCdems7PQZRj42QDWLA0A",
+    "uri": "spotify:track:1HCdems7PQZRj42QDWLA0A",
+    "name": "Timeless (Taylor’s Version) (From The Vault)",
+    "album": "Speak Now (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.651,
+      "energy": 0.578,
+      "danceability": 0.629,
+      "acousticness": 0.332,
+      "tempo_normalized": 0.5715480000000001
+    }
+  },
+  "91": {
+    "internal_id": 91,
+    "spotify_id": "24emu3sabKISjRkrys28jq",
+    "uri": "spotify:track:24emu3sabKISjRkrys28jq",
+    "name": "Lavender Haze",
+    "album": "Midnights (The Til Dawn Edition)",
+    "mood_vector": {
+      "valence": 0.0955,
+      "energy": 0.449,
+      "danceability": 0.735,
+      "acousticness": 0.23,
+      "tempo_normalized": 0.3882
+    }
+  },
+  "92": {
+    "internal_id": 92,
+    "spotify_id": "6qxvy9Pe4RJIq5JBVbbwbS",
+    "uri": "spotify:track:6qxvy9Pe4RJIq5JBVbbwbS",
+    "name": "Maroon",
+    "album": "Midnights (The Til Dawn Edition)",
+    "mood_vector": {
+      "valence": 0.0384,
+      "energy": 0.384,
+      "danceability": 0.655,
+      "acousticness": 0.0634,
+      "tempo_normalized": 0.432232
+    }
+  },
+  "93": {
+    "internal_id": 93,
+    "spotify_id": "5qIHFdkW6phMsTZlN2g8Lc",
+    "uri": "spotify:track:5qIHFdkW6phMsTZlN2g8Lc",
+    "name": "Anti-Hero",
+    "album": "Midnights (The Til Dawn Edition)",
+    "mood_vector": {
+      "valence": 0.49,
+      "energy": 0.648,
+      "danceability": 0.633,
+      "acousticness": 0.121,
+      "tempo_normalized": 0.387552
+    }
+  },
+  "94": {
+    "internal_id": 94,
+    "spotify_id": "7GA86Uo2jYbj8vIXe2nyWd",
+    "uri": "spotify:track:7GA86Uo2jYbj8vIXe2nyWd",
+    "name": "Snow On The Beach (feat. Lana Del Rey)",
+    "album": "Midnights (The Til Dawn Edition)",
+    "mood_vector": {
+      "valence": 0.153,
+      "energy": 0.321,
+      "danceability": 0.663,
+      "acousticness": 0.701,
+      "tempo_normalized": 0.44008400000000003
+    }
+  },
+  "95": {
+    "internal_id": 95,
+    "spotify_id": "6PQOU00xWNrGwCZzboriXy",
+    "uri": "spotify:track:6PQOU00xWNrGwCZzboriXy",
+    "name": "You're On Your Own, Kid",
+    "album": "Midnights (The Til Dawn Edition)",
+    "mood_vector": {
+      "valence": 0.395,
+      "energy": 0.39,
+      "danceability": 0.696,
+      "acousticness": 0.447,
+      "tempo_normalized": 0.480128
+    }
+  },
+  "96": {
+    "internal_id": 96,
+    "spotify_id": "4eKMqf9ZMSclDX7V9Ptg7x",
+    "uri": "spotify:track:4eKMqf9ZMSclDX7V9Ptg7x",
+    "name": "Midnight Rain",
+    "album": "Midnights (The Til Dawn Edition)",
+    "mood_vector": {
+      "valence": 0.203,
+      "energy": 0.375,
+      "danceability": 0.604,
+      "acousticness": 0.71,
+      "tempo_normalized": 0.5506040000000001
+    }
+  },
+  "97": {
+    "internal_id": 97,
+    "spotify_id": "7oomkQSYf1ia2VnVEWfFIU",
+    "uri": "spotify:track:7oomkQSYf1ia2VnVEWfFIU",
+    "name": "Question...?",
+    "album": "Midnights (The Til Dawn Edition)",
+    "mood_vector": {
+      "valence": 0.105,
+      "energy": 0.51,
+      "danceability": 0.654,
+      "acousticness": 0.206,
+      "tempo_normalized": 0.435496
+    }
+  },
+  "98": {
+    "internal_id": 98,
+    "spotify_id": "0GKDhq6ZbmSbRHd3eyGlB7",
+    "uri": "spotify:track:0GKDhq6ZbmSbRHd3eyGlB7",
+    "name": "Vigilante Shit",
+    "album": "Midnights (The Til Dawn Edition)",
+    "mood_vector": {
+      "valence": 0.168,
+      "energy": 0.267,
+      "danceability": 0.872,
+      "acousticness": 0.166,
+      "tempo_normalized": 0.319856
+    }
+  },
+  "99": {
+    "internal_id": 99,
+    "spotify_id": "0VpF6RLdCfPIeYRwMu4tZK",
+    "uri": "spotify:track:0VpF6RLdCfPIeYRwMu4tZK",
+    "name": "Bejeweled",
+    "album": "Midnights (The Til Dawn Edition)",
+    "mood_vector": {
+      "valence": 0.443,
+      "energy": 0.551,
+      "danceability": 0.687,
+      "acousticness": 0.0593,
+      "tempo_normalized": 0.655976
+    }
+  },
+  "100": {
+    "internal_id": 100,
+    "spotify_id": "4bBDkw2KBMX0tcgAaXC83Q",
+    "uri": "spotify:track:4bBDkw2KBMX0tcgAaXC83Q",
+    "name": "Labyrinth",
+    "album": "Midnights (The Til Dawn Edition)",
+    "mood_vector": {
+      "valence": 0.132,
+      "energy": 0.295,
+      "danceability": 0.48,
+      "acousticness": 0.797,
+      "tempo_normalized": 0.440072
+    }
+  },
+  "101": {
+    "internal_id": 101,
+    "spotify_id": "45R112Jz5hQeKgITXgSXzs",
+    "uri": "spotify:track:45R112Jz5hQeKgITXgSXzs",
+    "name": "Karma",
+    "album": "Midnights (The Til Dawn Edition)",
+    "mood_vector": {
+      "valence": 0.121,
+      "energy": 0.619,
+      "danceability": 0.64,
+      "acousticness": 0.062,
+      "tempo_normalized": 0.36003199999999996
+    }
+  },
+  "102": {
+    "internal_id": 102,
+    "spotify_id": "2L09RYwH5Pjzca6PmbUAw3",
+    "uri": "spotify:track:2L09RYwH5Pjzca6PmbUAw3",
+    "name": "Sweet Nothing",
+    "album": "Midnights (The Til Dawn Edition)",
+    "mood_vector": {
+      "valence": 0.407,
+      "energy": 0.161,
+      "danceability": 0.336,
+      "acousticness": 0.968,
+      "tempo_normalized": 0.70592
+    }
+  },
+  "103": {
+    "internal_id": 103,
+    "spotify_id": "1QQii3pa5m8MEda0nbkjfw",
+    "uri": "spotify:track:1QQii3pa5m8MEda0nbkjfw",
+    "name": "Mastermind",
+    "album": "Midnights (The Til Dawn Edition)",
+    "mood_vector": {
+      "valence": 0.137,
+      "energy": 0.343,
+      "danceability": 0.66,
+      "acousticness": 0.565,
+      "tempo_normalized": 0.50384
+    }
+  },
+  "104": {
+    "internal_id": 104,
+    "spotify_id": "2VuqMjgoKaOHNM8HpxtXKx",
+    "uri": "spotify:track:2VuqMjgoKaOHNM8HpxtXKx",
+    "name": "The Great War",
+    "album": "Midnights (The Til Dawn Edition)",
+    "mood_vector": {
+      "valence": 0.574,
+      "energy": 0.747,
+      "danceability": 0.57,
+      "acousticness": 0.199,
+      "tempo_normalized": 0.384064
+    }
+  },
+  "105": {
+    "internal_id": 105,
+    "spotify_id": "71CBDRKmF2VeRKYMG1DFBh",
+    "uri": "spotify:track:71CBDRKmF2VeRKYMG1DFBh",
+    "name": "Bigger Than The Whole Sky",
+    "album": "Midnights (The Til Dawn Edition)",
+    "mood_vector": {
+      "valence": 0.0705,
+      "energy": 0.22,
+      "danceability": 0.42,
+      "acousticness": 0.841,
+      "tempo_normalized": 0.662256
+    }
+  },
+  "106": {
+    "internal_id": 106,
+    "spotify_id": "5tWxKWq1DSP1s9WQ5PWuqu",
+    "uri": "spotify:track:5tWxKWq1DSP1s9WQ5PWuqu",
+    "name": "Paris",
+    "album": "Midnights (The Til Dawn Edition)",
+    "mood_vector": {
+      "valence": 0.347,
+      "energy": 0.518,
+      "danceability": 0.703,
+      "acousticness": 0.103,
+      "tempo_normalized": 0.44376
+    }
+  },
+  "107": {
+    "internal_id": 107,
+    "spotify_id": "1SztNGCwEHJEVFx90E5g7D",
+    "uri": "spotify:track:1SztNGCwEHJEVFx90E5g7D",
+    "name": "High Infidelity",
+    "album": "Midnights (The Til Dawn Edition)",
+    "mood_vector": {
+      "valence": 0.768,
+      "energy": 0.547,
+      "danceability": 0.571,
+      "acousticness": 0.704,
+      "tempo_normalized": 0.703732
+    }
+  },
+  "108": {
+    "internal_id": 108,
+    "spotify_id": "7C0w28EsX0Um2FrZs9gso2",
+    "uri": "spotify:track:7C0w28EsX0Um2FrZs9gso2",
+    "name": "Glitch",
+    "album": "Midnights (The Til Dawn Edition)",
+    "mood_vector": {
+      "valence": 0.347,
+      "energy": 0.47,
+      "danceability": 0.677,
+      "acousticness": 0.314,
+      "tempo_normalized": 0.563524
+    }
+  },
+  "109": {
+    "internal_id": 109,
+    "spotify_id": "4txojlesMFQZGWxwz2EeqB",
+    "uri": "spotify:track:4txojlesMFQZGWxwz2EeqB",
+    "name": "Would've, Could've, Should've",
+    "album": "Midnights (The Til Dawn Edition)",
+    "mood_vector": {
+      "valence": 0.548,
+      "energy": 0.846,
+      "danceability": 0.485,
+      "acousticness": 0.393,
+      "tempo_normalized": 0.631672
+    }
+  },
+  "110": {
+    "internal_id": 110,
+    "spotify_id": "10GRRCR5fctuOF4GFmATJI",
+    "uri": "spotify:track:10GRRCR5fctuOF4GFmATJI",
+    "name": "Dear Reader",
+    "album": "Midnights (The Til Dawn Edition)",
+    "mood_vector": {
+      "valence": 0.151,
+      "energy": 0.39,
+      "danceability": 0.674,
+      "acousticness": 0.464,
+      "tempo_normalized": 0.431564
+    }
+  },
+  "111": {
+    "internal_id": 111,
+    "spotify_id": "3xYJScVfxByb61dYHTwiby",
+    "uri": "spotify:track:3xYJScVfxByb61dYHTwiby",
+    "name": "Hits Different",
+    "album": "Midnights (The Til Dawn Edition)",
+    "mood_vector": {
+      "valence": 0.261,
+      "energy": 0.786,
+      "danceability": 0.666,
+      "acousticness": 0.134,
+      "tempo_normalized": 0.42407999999999996
+    }
+  },
+  "112": {
+    "internal_id": 112,
+    "spotify_id": "4zmKGsrXjLmljb5fTaBTot",
+    "uri": "spotify:track:4zmKGsrXjLmljb5fTaBTot",
+    "name": "Snow On The Beach (feat. More Lana Del Rey)",
+    "album": "Midnights (The Til Dawn Edition)",
+    "mood_vector": {
+      "valence": 0.265,
+      "energy": 0.399,
+      "danceability": 0.664,
+      "acousticness": 0.797,
+      "tempo_normalized": 0.43974799999999997
+    }
+  },
+  "113": {
+    "internal_id": 113,
+    "spotify_id": "4i6cwNY6oIUU2XZxPIw82Y",
+    "uri": "spotify:track:4i6cwNY6oIUU2XZxPIw82Y",
+    "name": "Karma (feat. Ice Spice)",
+    "album": "Midnights (The Til Dawn Edition)",
+    "mood_vector": {
+      "valence": 0.0705,
+      "energy": 0.626,
+      "danceability": 0.615,
+      "acousticness": 0.0574,
+      "tempo_normalized": 0.359936
+    }
+  },
+  "114": {
+    "internal_id": 114,
+    "spotify_id": "6lzc0Al0zfZOIFsFvBS1ki",
+    "uri": "spotify:track:6lzc0Al0zfZOIFsFvBS1ki",
+    "name": "State Of Grace (Taylor's Version)",
+    "album": "Red (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.328,
+      "energy": 0.713,
+      "danceability": 0.594,
+      "acousticness": 0.000328,
+      "tempo_normalized": 0.519832
+    }
+  },
+  "115": {
+    "internal_id": 115,
+    "spotify_id": "4OAuvHryIVv4kMDNSLuPt6",
+    "uri": "spotify:track:4OAuvHryIVv4kMDNSLuPt6",
+    "name": "Red (Taylor's Version)",
+    "album": "Red (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.408,
+      "energy": 0.777,
+      "danceability": 0.516,
+      "acousticness": 0.00108,
+      "tempo_normalized": 0.500188
+    }
+  },
+  "116": {
+    "internal_id": 116,
+    "spotify_id": "3S7HNKPakdwNEBFIVTL6dZ",
+    "uri": "spotify:track:3S7HNKPakdwNEBFIVTL6dZ",
+    "name": "Treacherous (Taylor's Version)",
+    "album": "Red (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.299,
+      "energy": 0.593,
+      "danceability": 0.645,
+      "acousticness": 0.0344,
+      "tempo_normalized": 0.439936
+    }
+  },
+  "117": {
+    "internal_id": 117,
+    "spotify_id": "6AtZLIzUINvExIUy4QhdjP",
+    "uri": "spotify:track:6AtZLIzUINvExIUy4QhdjP",
+    "name": "I Knew You Were Trouble (Taylor's Version)",
+    "album": "Red (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.767,
+      "energy": 0.557,
+      "danceability": 0.584,
+      "acousticness": 0.0129,
+      "tempo_normalized": 0.616032
+    }
+  },
+  "118": {
+    "internal_id": 118,
+    "spotify_id": "3nsfB1vus2qaloUdcBZvDu",
+    "uri": "spotify:track:3nsfB1vus2qaloUdcBZvDu",
+    "name": "All Too Well (Taylor's Version)",
+    "album": "Red (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.132,
+      "energy": 0.528,
+      "danceability": 0.44,
+      "acousticness": 0.0171,
+      "tempo_normalized": 0.743888
+    }
+  },
+  "119": {
+    "internal_id": 119,
+    "spotify_id": "3yII7UwgLF6K5zW3xad3MP",
+    "uri": "spotify:track:3yII7UwgLF6K5zW3xad3MP",
+    "name": "22 (Taylor's Version)",
+    "album": "Red (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.642,
+      "energy": 0.695,
+      "danceability": 0.642,
+      "acousticness": 0.000443,
+      "tempo_normalized": 0.415936
+    }
+  },
+  "120": {
+    "internal_id": 120,
+    "spotify_id": "2r9CbjYgFhtAmcFv1cSquB",
+    "uri": "spotify:track:2r9CbjYgFhtAmcFv1cSquB",
+    "name": "I Almost Do (Taylor's Version)",
+    "album": "Red (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.248,
+      "energy": 0.559,
+      "danceability": 0.511,
+      "acousticness": 0.0167,
+      "tempo_normalized": 0.5835199999999999
+    }
+  },
+  "121": {
+    "internal_id": 121,
+    "spotify_id": "5YqltLsjdqFtvqE7Nrysvs",
+    "uri": "spotify:track:5YqltLsjdqFtvqE7Nrysvs",
+    "name": "We Are Never Ever Getting Back Together (Taylor's Version)",
+    "album": "Red (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.716,
+      "energy": 0.686,
+      "danceability": 0.567,
+      "acousticness": 0.0317,
+      "tempo_normalized": 0.688056
+    }
+  },
+  "122": {
+    "internal_id": 122,
+    "spotify_id": "7eQj6r5PIdYKEIZjucBMcq",
+    "uri": "spotify:track:7eQj6r5PIdYKEIZjucBMcq",
+    "name": "Stay Stay Stay (Taylor's Version)",
+    "album": "Red (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.663,
+      "energy": 0.681,
+      "danceability": 0.693,
+      "acousticness": 0.0848,
+      "tempo_normalized": 0.40008
+    }
+  },
+  "123": {
+    "internal_id": 123,
+    "spotify_id": "0y6kdSRCVQhSsHSpWvTUm7",
+    "uri": "spotify:track:0y6kdSRCVQhSsHSpWvTUm7",
+    "name": "The Last Time (feat. Gary Lightbody of Snow Patrol) (Taylor’s Version)",
+    "album": "Red (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.155,
+      "energy": 0.534,
+      "danceability": 0.502,
+      "acousticness": 0.0399,
+      "tempo_normalized": 0.3762
+    }
+  },
+  "124": {
+    "internal_id": 124,
+    "spotify_id": "7J4b3LVCIGO4CMBDFLPoP6",
+    "uri": "spotify:track:7J4b3LVCIGO4CMBDFLPoP6",
+    "name": "Holy Ground (Taylor's Version)",
+    "album": "Red (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.511,
+      "energy": 0.809,
+      "danceability": 0.622,
+      "acousticness": 0.0288,
+      "tempo_normalized": 0.627576
+    }
+  },
+  "125": {
+    "internal_id": 125,
+    "spotify_id": "73qMN9bXy7MSPwwGfH3wQr",
+    "uri": "spotify:track:73qMN9bXy7MSPwwGfH3wQr",
+    "name": "Sad Beautiful Tragic (Taylor's Version)",
+    "album": "Red (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.232,
+      "energy": 0.406,
+      "danceability": 0.601,
+      "acousticness": 0.622,
+      "tempo_normalized": 0.520236
+    }
+  },
+  "126": {
+    "internal_id": 126,
+    "spotify_id": "4e5ayHsOLJNLTGfjau2mEw",
+    "uri": "spotify:track:4e5ayHsOLJNLTGfjau2mEw",
+    "name": "The Lucky One (Taylor's Version)",
+    "album": "Red (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.538,
+      "energy": 0.571,
+      "danceability": 0.686,
+      "acousticness": 0.066,
+      "tempo_normalized": 0.471556
+    }
+  },
+  "127": {
+    "internal_id": 127,
+    "spotify_id": "7qEUFOVcxRI19tbT68JcYK",
+    "uri": "spotify:track:7qEUFOVcxRI19tbT68JcYK",
+    "name": "Everything Has Changed (feat. Ed Sheeran) (Taylor’s Version)",
+    "album": "Red (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.474,
+      "energy": 0.61,
+      "danceability": 0.498,
+      "acousticness": 0.271,
+      "tempo_normalized": 0.319672
+    }
+  },
+  "128": {
+    "internal_id": 128,
+    "spotify_id": "7A2cNLRT0YJc1yjxHlKihs",
+    "uri": "spotify:track:7A2cNLRT0YJc1yjxHlKihs",
+    "name": "Starlight (Taylor's Version)",
+    "album": "Red (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.605,
+      "energy": 0.685,
+      "danceability": 0.628,
+      "acousticness": 0.00324,
+      "tempo_normalized": 0.504056
+    }
+  },
+  "129": {
+    "internal_id": 129,
+    "spotify_id": "05GsNucq8Bngd9fnd4fRa0",
+    "uri": "spotify:track:05GsNucq8Bngd9fnd4fRa0",
+    "name": "Begin Again (Taylor's Version)",
+    "album": "Red (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.267,
+      "energy": 0.527,
+      "danceability": 0.519,
+      "acousticness": 0.075,
+      "tempo_normalized": 0.31566000000000005
+    }
+  },
+  "130": {
+    "internal_id": 130,
+    "spotify_id": "0NRHj8hDwwmSPaA41o379r",
+    "uri": "spotify:track:0NRHj8hDwwmSPaA41o379r",
+    "name": "The Moment I Knew (Taylor's Version)",
+    "album": "Red (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.208,
+      "energy": 0.402,
+      "danceability": 0.636,
+      "acousticness": 0.0494,
+      "tempo_normalized": 0.503808
+    }
+  },
+  "131": {
+    "internal_id": 131,
+    "spotify_id": "4pNApnaUWAL2J4KO2eqokq",
+    "uri": "spotify:track:4pNApnaUWAL2J4KO2eqokq",
+    "name": "Come Back...Be Here (Taylor's Version)",
+    "album": "Red (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.399,
+      "energy": 0.632,
+      "danceability": 0.46,
+      "acousticness": 0.0158,
+      "tempo_normalized": 0.319384
+    }
+  },
+  "132": {
+    "internal_id": 132,
+    "spotify_id": "0DMVrlMUn01M0IcpDbwgu7",
+    "uri": "spotify:track:0DMVrlMUn01M0IcpDbwgu7",
+    "name": "Girl At Home (Taylor's Version)",
+    "album": "Red (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.612,
+      "energy": 0.736,
+      "danceability": 0.691,
+      "acousticness": 0.00955,
+      "tempo_normalized": 0.500356
+    }
+  },
+  "133": {
+    "internal_id": 133,
+    "spotify_id": "5jAIouBES8LWMiriuNq170",
+    "uri": "spotify:track:5jAIouBES8LWMiriuNq170",
+    "name": "State Of Grace (Acoustic Version) (Taylor's Version)",
+    "album": "Red (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.101,
+      "energy": 0.131,
+      "danceability": 0.445,
+      "acousticness": 0.663,
+      "tempo_normalized": 0.835672
+    }
+  },
+  "134": {
+    "internal_id": 134,
+    "spotify_id": "7nWui6jiMM2m9qFmET1Mtj",
+    "uri": "spotify:track:7nWui6jiMM2m9qFmET1Mtj",
+    "name": "Ronan (Taylor's Version)",
+    "album": "Red (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.38,
+      "energy": 0.279,
+      "danceability": 0.623,
+      "acousticness": 0.661,
+      "tempo_normalized": 0.46416
+    }
+  },
+  "135": {
+    "internal_id": 135,
+    "spotify_id": "4OmFmE0fzcMG6g0Y8p4eSD",
+    "uri": "spotify:track:4OmFmE0fzcMG6g0Y8p4eSD",
+    "name": "Better Man (Taylor's Version) (From The Vault)",
+    "album": "Red (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.255,
+      "energy": 0.579,
+      "danceability": 0.473,
+      "acousticness": 0.214,
+      "tempo_normalized": 0.295768
+    }
+  },
+  "136": {
+    "internal_id": 136,
+    "spotify_id": "01K4zKU104LyJ8gMb7227B",
+    "uri": "spotify:track:01K4zKU104LyJ8gMb7227B",
+    "name": "Nothing New (feat. Phoebe Bridgers) (Taylor’s Version) (From The Vault)",
+    "album": "Red (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.446,
+      "energy": 0.377,
+      "danceability": 0.606,
+      "acousticness": 0.817,
+      "tempo_normalized": 0.40784
+    }
+  },
+  "137": {
+    "internal_id": 137,
+    "spotify_id": "0v4z1tuZvn6LGknom9Qx7d",
+    "uri": "spotify:track:0v4z1tuZvn6LGknom9Qx7d",
+    "name": "Babe (Taylor's Version) (From The Vault)",
+    "album": "Red (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.746,
+      "energy": 0.743,
+      "danceability": 0.584,
+      "acousticness": 0.0538,
+      "tempo_normalized": 0.671376
+    }
+  },
+  "138": {
+    "internal_id": 138,
+    "spotify_id": "3z6XUommYDWPHeFhmhhT6j",
+    "uri": "spotify:track:3z6XUommYDWPHeFhmhhT6j",
+    "name": "Message In A Bottle (Taylor's Version) (From The Vault)",
+    "album": "Red (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.494,
+      "energy": 0.791,
+      "danceability": 0.622,
+      "acousticness": 0.00188,
+      "tempo_normalized": 0.46366
+    }
+  },
+  "139": {
+    "internal_id": 139,
+    "spotify_id": "4CkgMiMqZ5JzW9iYXSTMTL",
+    "uri": "spotify:track:4CkgMiMqZ5JzW9iYXSTMTL",
+    "name": "I Bet You Think About Me (feat. Chris Stapleton) (Taylor’s Version) (From The Vault)",
+    "album": "Red (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.473,
+      "energy": 0.715,
+      "danceability": 0.391,
+      "acousticness": 0.167,
+      "tempo_normalized": 0.598616
+    }
+  },
+  "140": {
+    "internal_id": 140,
+    "spotify_id": "3oGVx9RBmiYGv5ZCecWLkx",
+    "uri": "spotify:track:3oGVx9RBmiYGv5ZCecWLkx",
+    "name": "Forever Winter (Taylor's Version) (From The Vault)",
+    "album": "Red (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.41,
+      "energy": 0.552,
+      "danceability": 0.611,
+      "acousticness": 0.256,
+      "tempo_normalized": 0.464048
+    }
+  },
+  "141": {
+    "internal_id": 141,
+    "spotify_id": "4IQkfUsrwXol38VV3U7t7T",
+    "uri": "spotify:track:4IQkfUsrwXol38VV3U7t7T",
+    "name": "Run (feat. Ed Sheeran) (Taylor’s Version) (From The Vault)",
+    "album": "Red (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.443,
+      "energy": 0.488,
+      "danceability": 0.61,
+      "acousticness": 0.817,
+      "tempo_normalized": 0.500156
+    }
+  },
+  "142": {
+    "internal_id": 142,
+    "spotify_id": "6pYNq0ZwpPVazKzsqpf0G8",
+    "uri": "spotify:track:6pYNq0ZwpPVazKzsqpf0G8",
+    "name": "The Very First Night (Taylor's Version) (From The Vault)",
+    "album": "Red (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.581,
+      "energy": 0.733,
+      "danceability": 0.678,
+      "acousticness": 0.00115,
+      "tempo_normalized": 0.484036
+    }
+  },
+  "143": {
+    "internal_id": 143,
+    "spotify_id": "5enxwA8aAbwZbf5qCHORXi",
+    "uri": "spotify:track:5enxwA8aAbwZbf5qCHORXi",
+    "name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
+    "album": "Red (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.205,
+      "energy": 0.518,
+      "danceability": 0.631,
+      "acousticness": 0.274,
+      "tempo_normalized": 0.372092
+    }
+  },
+  "144": {
+    "internal_id": 144,
+    "spotify_id": "77sMIMlNaSURUAXq5coCxE",
+    "uri": "spotify:track:77sMIMlNaSURUAXq5coCxE",
+    "name": "Fearless (Taylor’s Version)",
+    "album": "Fearless (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.43,
+      "energy": 0.741,
+      "danceability": 0.569,
+      "acousticness": 0.0122,
+      "tempo_normalized": 0.400472
+    }
+  },
+  "145": {
+    "internal_id": 145,
+    "spotify_id": "2nqio0SfWg6gh2eCtfuMa5",
+    "uri": "spotify:track:2nqio0SfWg6gh2eCtfuMa5",
+    "name": "Fifteen (Taylor’s Version)",
+    "album": "Fearless (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.289,
+      "energy": 0.646,
+      "danceability": 0.559,
+      "acousticness": 0.116,
+      "tempo_normalized": 0.381864
+    }
+  },
+  "146": {
+    "internal_id": 146,
+    "spotify_id": "6YvqWjhGD8mB5QXcbcUKtx",
+    "uri": "spotify:track:6YvqWjhGD8mB5QXcbcUKtx",
+    "name": "Love Story (Taylor’s Version)",
+    "album": "Fearless (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.415,
+      "energy": 0.792,
+      "danceability": 0.627,
+      "acousticness": 0.13,
+      "tempo_normalized": 0.47621600000000003
+    }
+  },
+  "147": {
+    "internal_id": 147,
+    "spotify_id": "550erGcdD9n6PnwxrvYqZT",
+    "uri": "spotify:track:550erGcdD9n6PnwxrvYqZT",
+    "name": "Hey Stephen (Taylor’s Version)",
+    "album": "Fearless (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.797,
+      "energy": 0.571,
+      "danceability": 0.788,
+      "acousticness": 0.106,
+      "tempo_normalized": 0.46396
+    }
+  },
+  "148": {
+    "internal_id": 148,
+    "spotify_id": "5YL553x8sHderRBDlm3NM3",
+    "uri": "spotify:track:5YL553x8sHderRBDlm3NM3",
+    "name": "White Horse (Taylor’s Version)",
+    "album": "Fearless (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.366,
+      "energy": 0.517,
+      "danceability": 0.423,
+      "acousticness": 0.369,
+      "tempo_normalized": 0.741048
+    }
+  },
+  "149": {
+    "internal_id": 149,
+    "spotify_id": "1qrpoAMXodY6895hGKoUpA",
+    "uri": "spotify:track:1qrpoAMXodY6895hGKoUpA",
+    "name": "You Belong With Me (Taylor’s Version)",
+    "album": "Fearless (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.474,
+      "energy": 0.773,
+      "danceability": 0.632,
+      "acousticness": 0.0623,
+      "tempo_normalized": 0.5201319999999999
+    }
+  },
+  "150": {
+    "internal_id": 150,
+    "spotify_id": "7HC7R2D8WjXVcUHJyEGjRs",
+    "uri": "spotify:track:7HC7R2D8WjXVcUHJyEGjRs",
+    "name": "Breathe (feat. Colbie Caillat) (Taylor’s Version)",
+    "album": "Fearless (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.321,
+      "energy": 0.626,
+      "danceability": 0.506,
+      "acousticness": 0.156,
+      "tempo_normalized": 0.59214
+    }
+  },
+  "151": {
+    "internal_id": 151,
+    "spotify_id": "0k0vFacOHNuArLWMiH60p7",
+    "uri": "spotify:track:0k0vFacOHNuArLWMiH60p7",
+    "name": "Tell Me Why (Taylor’s Version)",
+    "album": "Fearless (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.541,
+      "energy": 0.909,
+      "danceability": 0.578,
+      "acousticness": 0.0222,
+      "tempo_normalized": 0.400092
+    }
+  },
+  "152": {
+    "internal_id": 152,
+    "spotify_id": "6iiAfo4wTA2CVC3Uwx9uh8",
+    "uri": "spotify:track:6iiAfo4wTA2CVC3Uwx9uh8",
+    "name": "You’re Not Sorry (Taylor’s Version)",
+    "album": "Fearless (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.241,
+      "energy": 0.444,
+      "danceability": 0.506,
+      "acousticness": 0.0538,
+      "tempo_normalized": 0.535492
+    }
+  },
+  "153": {
+    "internal_id": 153,
+    "spotify_id": "22bPsP2jCgbLUvh82U0Z3M",
+    "uri": "spotify:track:22bPsP2jCgbLUvh82U0Z3M",
+    "name": "The Way I Loved You (Taylor’s Version)",
+    "album": "Fearless (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.472,
+      "energy": 0.732,
+      "danceability": 0.402,
+      "acousticness": 0.0033,
+      "tempo_normalized": 0.644128
+    }
+  },
+  "154": {
+    "internal_id": 154,
+    "spotify_id": "1msEuwSBneBKpVCZQcFTsU",
+    "uri": "spotify:track:1msEuwSBneBKpVCZQcFTsU",
+    "name": "Forever & Always (Taylor’s Version)",
+    "album": "Fearless (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.673,
+      "energy": 0.821,
+      "danceability": 0.598,
+      "acousticness": 0.0231,
+      "tempo_normalized": 0.51212
+    }
+  },
+  "155": {
+    "internal_id": 155,
+    "spotify_id": "6ON9UuIq49xXY9GPmHIYRp",
+    "uri": "spotify:track:6ON9UuIq49xXY9GPmHIYRp",
+    "name": "The Best Day (Taylor’s Version)",
+    "album": "Fearless (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.469,
+      "energy": 0.576,
+      "danceability": 0.642,
+      "acousticness": 0.488,
+      "tempo_normalized": 0.5
+    }
+  },
+  "156": {
+    "internal_id": 156,
+    "spotify_id": "3ExweHKZF9B752DPQByRVT",
+    "uri": "spotify:track:3ExweHKZF9B752DPQByRVT",
+    "name": "Change (Taylor’s Version)",
+    "album": "Fearless (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.344,
+      "energy": 0.815,
+      "danceability": 0.499,
+      "acousticness": 0.000191,
+      "tempo_normalized": 0.383996
+    }
+  },
+  "157": {
+    "internal_id": 157,
+    "spotify_id": "2m3ObD945KvpE5y9A1eUWm",
+    "uri": "spotify:track:2m3ObD945KvpE5y9A1eUWm",
+    "name": "Jump Then Fall (Taylor’s Version)",
+    "album": "Fearless (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.624,
+      "energy": 0.69,
+      "danceability": 0.572,
+      "acousticness": 0.0474,
+      "tempo_normalized": 0.640444
+    }
+  },
+  "158": {
+    "internal_id": 158,
+    "spotify_id": "0tQ9vBYpldCuikPsbgOVKA",
+    "uri": "spotify:track:0tQ9vBYpldCuikPsbgOVKA",
+    "name": "Untouchable (Taylor’s Version)",
+    "album": "Fearless (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.224,
+      "energy": 0.531,
+      "danceability": 0.393,
+      "acousticness": 0.0181,
+      "tempo_normalized": 0.8015639999999999
+    }
+  },
+  "159": {
+    "internal_id": 159,
+    "spotify_id": "01QdEx6kFr78ZejhQtWR5m",
+    "uri": "spotify:track:01QdEx6kFr78ZejhQtWR5m",
+    "name": "Forever & Always (Piano Version) (Taylor’s Version)",
+    "album": "Fearless (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.271,
+      "energy": 0.273,
+      "danceability": 0.546,
+      "acousticness": 0.819,
+      "tempo_normalized": 0.475012
+    }
+  },
+  "160": {
+    "internal_id": 160,
+    "spotify_id": "1n2wszmJyVkw6FHqyLnQsY",
+    "uri": "spotify:track:1n2wszmJyVkw6FHqyLnQsY",
+    "name": "Come In With The Rain (Taylor’s Version)",
+    "album": "Fearless (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.167,
+      "energy": 0.564,
+      "danceability": 0.476,
+      "acousticness": 0.0406,
+      "tempo_normalized": 0.575716
+    }
+  },
+  "161": {
+    "internal_id": 161,
+    "spotify_id": "51A8eKvvZz9uydvIZ7xRSV",
+    "uri": "spotify:track:51A8eKvvZz9uydvIZ7xRSV",
+    "name": "Superstar (Taylor’s Version)",
+    "album": "Fearless (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.171,
+      "energy": 0.555,
+      "danceability": 0.454,
+      "acousticness": 0.157,
+      "tempo_normalized": 0.687448
+    }
+  },
+  "162": {
+    "internal_id": 162,
+    "spotify_id": "1cSFlSBdpT4F5vb1frQ231",
+    "uri": "spotify:track:1cSFlSBdpT4F5vb1frQ231",
+    "name": "The Other Side Of The Door (Taylor’s Version)",
+    "album": "Fearless (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.629,
+      "energy": 0.873,
+      "danceability": 0.432,
+      "acousticness": 0.0279,
+      "tempo_normalized": 0.655744
+    }
+  },
+  "163": {
+    "internal_id": 163,
+    "spotify_id": "2JoJrsEV15OzbijS47lids",
+    "uri": "spotify:track:2JoJrsEV15OzbijS47lids",
+    "name": "Today Was A Fairytale (Taylor’s Version)",
+    "album": "Fearless (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.328,
+      "energy": 0.779,
+      "danceability": 0.482,
+      "acousticness": 0.0135,
+      "tempo_normalized": 0.632648
+    }
+  },
+  "164": {
+    "internal_id": 164,
+    "spotify_id": "4CHpVfAhuxNJ3ibExe6kxO",
+    "uri": "spotify:track:4CHpVfAhuxNJ3ibExe6kxO",
+    "name": "You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault)",
+    "album": "Fearless (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.44,
+      "energy": 0.494,
+      "danceability": 0.599,
+      "acousticness": 0.816,
+      "tempo_normalized": 0.571572
+    }
+  },
+  "165": {
+    "internal_id": 165,
+    "spotify_id": "2CYVETnhM9aytqrazYYwrK",
+    "uri": "spotify:track:2CYVETnhM9aytqrazYYwrK",
+    "name": "Mr. Perfectly Fine (Taylor’s Version) (From The Vault)",
+    "album": "Fearless (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.714,
+      "energy": 0.817,
+      "danceability": 0.66,
+      "acousticness": 0.162,
+      "tempo_normalized": 0.543768
+    }
+  },
+  "166": {
+    "internal_id": 166,
+    "spotify_id": "34V9RiEPe8MNdU32qJsJa1",
+    "uri": "spotify:track:34V9RiEPe8MNdU32qJsJa1",
+    "name": "We Were Happy (Taylor’s Version) (From The Vault)",
+    "album": "Fearless (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.13,
+      "energy": 0.373,
+      "danceability": 0.609,
+      "acousticness": 0.849,
+      "tempo_normalized": 0.424028
+    }
+  },
+  "167": {
+    "internal_id": 167,
+    "spotify_id": "7eResoqEJJAVTkQYSqvO3P",
+    "uri": "spotify:track:7eResoqEJJAVTkQYSqvO3P",
+    "name": "That’s When (feat. Keith Urban) (Taylor’s Version) (From The Vault)",
+    "album": "Fearless (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.508,
+      "energy": 0.608,
+      "danceability": 0.588,
+      "acousticness": 0.225,
+      "tempo_normalized": 0.36080399999999996
+    }
+  },
+  "168": {
+    "internal_id": 168,
+    "spotify_id": "4uuEGH5SVuzkkSFjo2DEiY",
+    "uri": "spotify:track:4uuEGH5SVuzkkSFjo2DEiY",
+    "name": "Don’t You (Taylor’s Version) (From The Vault)",
+    "album": "Fearless (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.405,
+      "energy": 0.473,
+      "danceability": 0.563,
+      "acousticness": 0.514,
+      "tempo_normalized": 0.407736
+    }
+  },
+  "169": {
+    "internal_id": 169,
+    "spotify_id": "4qUijfYU8EoIWiY6oSyrgT",
+    "uri": "spotify:track:4qUijfYU8EoIWiY6oSyrgT",
+    "name": "Bye Bye Baby (Taylor’s Version) (From The Vault)",
+    "album": "Fearless (Taylor's Version)",
+    "mood_vector": {
+      "valence": 0.527,
+      "energy": 0.624,
+      "danceability": 0.624,
+      "acousticness": 0.334,
+      "tempo_normalized": 0.32052800000000004
+    }
+  },
+  "170": {
+    "internal_id": 170,
+    "spotify_id": "2gVhfX2Gy1T9kDuS9azrF7",
+    "uri": "spotify:track:2gVhfX2Gy1T9kDuS9azrF7",
+    "name": "willow",
+    "album": "evermore (deluxe version)",
+    "mood_vector": {
+      "valence": 0.529,
+      "energy": 0.574,
+      "danceability": 0.392,
+      "acousticness": 0.833,
+      "tempo_normalized": 0.32444799999999996
+    }
+  },
+  "171": {
+    "internal_id": 171,
+    "spotify_id": "1gcyHQpBQ1lfXGdhZmWrHP",
+    "uri": "spotify:track:1gcyHQpBQ1lfXGdhZmWrHP",
+    "name": "champagne problems",
+    "album": "evermore (deluxe version)",
+    "mood_vector": {
+      "valence": 0.32,
+      "energy": 0.24,
+      "danceability": 0.462,
+      "acousticness": 0.92,
+      "tempo_normalized": 0.685276
+    }
+  },
+  "172": {
+    "internal_id": 172,
+    "spotify_id": "3Dby3p1m6IOZn2gIIqECgK",
+    "uri": "spotify:track:3Dby3p1m6IOZn2gIIqECgK",
+    "name": "gold rush",
+    "album": "evermore (deluxe version)",
+    "mood_vector": {
+      "valence": 0.353,
+      "energy": 0.462,
+      "danceability": 0.512,
+      "acousticness": 0.83,
+      "tempo_normalized": 0.4482
+    }
+  },
+  "173": {
+    "internal_id": 173,
+    "spotify_id": "6sQckd3Z8NPxVVKUnavY1F",
+    "uri": "spotify:track:6sQckd3Z8NPxVVKUnavY1F",
+    "name": "‘tis the damn season",
+    "album": "evermore (deluxe version)",
+    "mood_vector": {
+      "valence": 0.348,
+      "energy": 0.434,
+      "danceability": 0.575,
+      "acousticness": 0.735,
+      "tempo_normalized": 0.583664
+    }
+  },
+  "174": {
+    "internal_id": 174,
+    "spotify_id": "6lCvK2AR2uOKkVFCVlAzzm",
+    "uri": "spotify:track:6lCvK2AR2uOKkVFCVlAzzm",
+    "name": "tolerate it",
+    "album": "evermore (deluxe version)",
+    "mood_vector": {
+      "valence": 0.221,
+      "energy": 0.361,
+      "danceability": 0.316,
+      "acousticness": 0.878,
+      "tempo_normalized": 0.299808
+    }
+  },
+  "175": {
+    "internal_id": 175,
+    "spotify_id": "6uwfVkaOM1mcMkFmSn35ix",
+    "uri": "spotify:track:6uwfVkaOM1mcMkFmSn35ix",
+    "name": "no body, no crime (feat. HAIM)",
+    "album": "evermore (deluxe version)",
+    "mood_vector": {
+      "valence": 0.535,
+      "energy": 0.613,
+      "danceability": 0.546,
+      "acousticness": 0.418,
+      "tempo_normalized": 0.31606
+    }
+  },
+  "176": {
+    "internal_id": 176,
+    "spotify_id": "55Vf4bimc1Rtfg0PAQRAo2",
+    "uri": "spotify:track:55Vf4bimc1Rtfg0PAQRAo2",
+    "name": "happiness",
+    "album": "evermore (deluxe version)",
+    "mood_vector": {
+      "valence": 0.211,
+      "energy": 0.334,
+      "danceability": 0.559,
+      "acousticness": 0.87,
+      "tempo_normalized": 0.488316
+    }
+  },
+  "177": {
+    "internal_id": 177,
+    "spotify_id": "66tOfHVH3aUrscg8vExRV4",
+    "uri": "spotify:track:66tOfHVH3aUrscg8vExRV4",
+    "name": "dorothea",
+    "album": "evermore (deluxe version)",
+    "mood_vector": {
+      "valence": 0.354,
+      "energy": 0.488,
+      "danceability": 0.605,
+      "acousticness": 0.696,
+      "tempo_normalized": 0.47986399999999996
+    }
+  },
+  "178": {
+    "internal_id": 178,
+    "spotify_id": "2awNGIJHodfLZSClB3PYhz",
+    "uri": "spotify:track:2awNGIJHodfLZSClB3PYhz",
+    "name": "coney island (feat. The National)",
+    "album": "evermore (deluxe version)",
+    "mood_vector": {
+      "valence": 0.292,
+      "energy": 0.537,
+      "danceability": 0.537,
+      "acousticness": 0.819,
+      "tempo_normalized": 0.43157999999999996
+    }
+  },
+  "179": {
+    "internal_id": 179,
+    "spotify_id": "43Ykum9T72UOPhBN31grpN",
+    "uri": "spotify:track:43Ykum9T72UOPhBN31grpN",
+    "name": "ivy",
+    "album": "evermore (deluxe version)",
+    "mood_vector": {
+      "valence": 0.535,
+      "energy": 0.545,
+      "danceability": 0.515,
+      "acousticness": 0.855,
+      "tempo_normalized": 0.35542399999999996
+    }
+  },
+  "180": {
+    "internal_id": 180,
+    "spotify_id": "52OkpDsU6MmPx1AwGOb6Ap",
+    "uri": "spotify:track:52OkpDsU6MmPx1AwGOb6Ap",
+    "name": "cowboy like me",
+    "album": "evermore (deluxe version)",
+    "mood_vector": {
+      "valence": 0.511,
+      "energy": 0.517,
+      "danceability": 0.604,
+      "acousticness": 0.768,
+      "tempo_normalized": 0.511868
+    }
+  },
+  "181": {
+    "internal_id": 181,
+    "spotify_id": "5VYWxXUpxuxEmCqMLDqICo",
+    "uri": "spotify:track:5VYWxXUpxuxEmCqMLDqICo",
+    "name": "long story short",
+    "album": "evermore (deluxe version)",
+    "mood_vector": {
+      "valence": 0.573,
+      "energy": 0.73,
+      "danceability": 0.546,
+      "acousticness": 0.66,
+      "tempo_normalized": 0.63158
+    }
+  },
+  "182": {
+    "internal_id": 182,
+    "spotify_id": "5uICWmZTLkpEVbK22PBP6e",
+    "uri": "spotify:track:5uICWmZTLkpEVbK22PBP6e",
+    "name": "marjorie",
+    "album": "evermore (deluxe version)",
+    "mood_vector": {
+      "valence": 0.287,
+      "energy": 0.561,
+      "danceability": 0.535,
+      "acousticness": 0.876,
+      "tempo_normalized": 0.384412
+    }
+  },
+  "183": {
+    "internal_id": 183,
+    "spotify_id": "6a8aUhYbaQBUI8PcJ5ZmQ6",
+    "uri": "spotify:track:6a8aUhYbaQBUI8PcJ5ZmQ6",
+    "name": "closure",
+    "album": "evermore (deluxe version)",
+    "mood_vector": {
+      "valence": 0.92,
+      "energy": 0.704,
+      "danceability": 0.689,
+      "acousticness": 0.835,
+      "tempo_normalized": 0.607536
+    }
+  },
+  "184": {
+    "internal_id": 184,
+    "spotify_id": "6Wlq9rqkxrqj5Kls4Kw14H",
+    "uri": "spotify:track:6Wlq9rqkxrqj5Kls4Kw14H",
+    "name": "evermore (feat. Bon Iver)",
+    "album": "evermore (deluxe version)",
+    "mood_vector": {
+      "valence": 0.32,
+      "energy": 0.27,
+      "danceability": 0.39,
+      "acousticness": 0.937,
+      "tempo_normalized": 0.500708
+    }
+  },
+  "185": {
+    "internal_id": 185,
+    "spotify_id": "3zwMVvkBe2qIKDObWgXw4N",
+    "uri": "spotify:track:3zwMVvkBe2qIKDObWgXw4N",
+    "name": "right where you left me - bonus track",
+    "album": "evermore (deluxe version)",
+    "mood_vector": {
+      "valence": 0.645,
+      "energy": 0.619,
+      "danceability": 0.581,
+      "acousticness": 0.769,
+      "tempo_normalized": 0.5516599999999999
+    }
+  },
+  "186": {
+    "internal_id": 186,
+    "spotify_id": "1kdWw77ZpYOkhxeuhzU1j6",
+    "uri": "spotify:track:1kdWw77ZpYOkhxeuhzU1j6",
+    "name": "it’s time to go - bonus track",
+    "album": "evermore (deluxe version)",
+    "mood_vector": {
+      "valence": 0.416,
+      "energy": 0.41,
+      "danceability": 0.592,
+      "acousticness": 0.801,
+      "tempo_normalized": 0.607692
+    }
+  },
+  "187": {
+    "internal_id": 187,
+    "spotify_id": "0P9wLFurlgumLXuqFEpw52",
+    "uri": "spotify:track:0P9wLFurlgumLXuqFEpw52",
+    "name": "the 1",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "mood_vector": {
+      "valence": 0.163,
+      "energy": 0.361,
+      "danceability": 0.78,
+      "acousticness": 0.75,
+      "tempo_normalized": 0.559608
+    }
+  },
+  "188": {
+    "internal_id": 188,
+    "spotify_id": "7zcnlq38eqNWyUF6eNaB5Z",
+    "uri": "spotify:track:7zcnlq38eqNWyUF6eNaB5Z",
+    "name": "cardigan",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "mood_vector": {
+      "valence": 0.534,
+      "energy": 0.58,
+      "danceability": 0.612,
+      "acousticness": 0.525,
+      "tempo_normalized": 0.52018
+    }
+  },
+  "189": {
+    "internal_id": 189,
+    "spotify_id": "4ojxSyrEraN7d46BMBPThZ",
+    "uri": "spotify:track:4ojxSyrEraN7d46BMBPThZ",
+    "name": "the last great american dynasty",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "mood_vector": {
+      "valence": 0.701,
+      "energy": 0.653,
+      "danceability": 0.688,
+      "acousticness": 0.481,
+      "tempo_normalized": 0.591964
+    }
+  },
+  "190": {
+    "internal_id": 190,
+    "spotify_id": "6kz2hkq1xQvDqPcUyBkw8f",
+    "uri": "spotify:track:6kz2hkq1xQvDqPcUyBkw8f",
+    "name": "exile (feat. Bon Iver)",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "mood_vector": {
+      "valence": 0.16,
+      "energy": 0.374,
+      "danceability": 0.31,
+      "acousticness": 0.761,
+      "tempo_normalized": 0.303752
+    }
+  },
+  "191": {
+    "internal_id": 191,
+    "spotify_id": "0Oju1YcbPCJuUQQWoZNdJK",
+    "uri": "spotify:track:0Oju1YcbPCJuUQQWoZNdJK",
+    "name": "my tears ricochet",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "mood_vector": {
+      "valence": 0.112,
+      "energy": 0.265,
+      "danceability": 0.456,
+      "acousticness": 0.814,
+      "tempo_normalized": 0.519788
+    }
+  },
+  "192": {
+    "internal_id": 192,
+    "spotify_id": "5jQyGzcwqAxwT5QUIMivoX",
+    "uri": "spotify:track:5jQyGzcwqAxwT5QUIMivoX",
+    "name": "mirrorball",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "mood_vector": {
+      "valence": 0.347,
+      "energy": 0.417,
+      "danceability": 0.549,
+      "acousticness": 0.686,
+      "tempo_normalized": 0.440548
+    }
+  },
+  "193": {
+    "internal_id": 193,
+    "spotify_id": "2vJ7QvyCiR4DaHxwO58izA",
+    "uri": "spotify:track:2vJ7QvyCiR4DaHxwO58izA",
+    "name": "seven",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "mood_vector": {
+      "valence": 0.374,
+      "energy": 0.494,
+      "danceability": 0.602,
+      "acousticness": 0.888,
+      "tempo_normalized": 0.37982
+    }
+  },
+  "194": {
+    "internal_id": 194,
+    "spotify_id": "1UHoF9p75IVsvUt6WdTYhn",
+    "uri": "spotify:track:1UHoF9p75IVsvUt6WdTYhn",
+    "name": "august",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "mood_vector": {
+      "valence": 0.42,
+      "energy": 0.634,
+      "danceability": 0.387,
+      "acousticness": 0.553,
+      "tempo_normalized": 0.358268
+    }
+  },
+  "195": {
+    "internal_id": 195,
+    "spotify_id": "5DnDBYrfGoxdnomqEAkFIv",
+    "uri": "spotify:track:5DnDBYrfGoxdnomqEAkFIv",
+    "name": "this is me trying",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "mood_vector": {
+      "valence": 0.408,
+      "energy": 0.478,
+      "danceability": 0.511,
+      "acousticness": 0.312,
+      "tempo_normalized": 0.543528
+    }
+  },
+  "196": {
+    "internal_id": 196,
+    "spotify_id": "7CVTowKpGPA2MsIbkTl2oc",
+    "uri": "spotify:track:7CVTowKpGPA2MsIbkTl2oc",
+    "name": "illicit affairs",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "mood_vector": {
+      "valence": 0.44,
+      "energy": 0.304,
+      "danceability": 0.529,
+      "acousticness": 0.862,
+      "tempo_normalized": 0.47831999999999997
+    }
+  },
+  "197": {
+    "internal_id": 197,
+    "spotify_id": "4WHIqhrbdva5vQSrCuet3l",
+    "uri": "spotify:track:4WHIqhrbdva5vQSrCuet3l",
+    "name": "invisible string",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "mood_vector": {
+      "valence": 0.454,
+      "energy": 0.459,
+      "danceability": 0.651,
+      "acousticness": 0.859,
+      "tempo_normalized": 0.33382
+    }
+  },
+  "198": {
+    "internal_id": 198,
+    "spotify_id": "7klXN6RCN5Rj0VeYO5gBzU",
+    "uri": "spotify:track:7klXN6RCN5Rj0VeYO5gBzU",
+    "name": "mad woman",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "mood_vector": {
+      "valence": 0.451,
+      "energy": 0.7,
+      "danceability": 0.593,
+      "acousticness": 0.67,
+      "tempo_normalized": 0.567592
+    }
+  },
+  "199": {
+    "internal_id": 199,
+    "spotify_id": "5MFjHn1qfR9AsWuyzJLk1z",
+    "uri": "spotify:track:5MFjHn1qfR9AsWuyzJLk1z",
+    "name": "epiphany",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "mood_vector": {
+      "valence": 0.103,
+      "energy": 0.254,
+      "danceability": 0.317,
+      "acousticness": 0.727,
+      "tempo_normalized": 0.375732
+    }
+  },
+  "200": {
+    "internal_id": 200,
+    "spotify_id": "2jhfs6moEAK13eLM6xim4l",
+    "uri": "spotify:track:2jhfs6moEAK13eLM6xim4l",
+    "name": "betty",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "mood_vector": {
+      "valence": 0.476,
+      "energy": 0.376,
+      "danceability": 0.595,
+      "acousticness": 0.589,
+      "tempo_normalized": 0.383784
+    }
+  },
+  "201": {
+    "internal_id": 201,
+    "spotify_id": "0O9i6jhscByEJs1ipy5hu4",
+    "uri": "spotify:track:0O9i6jhscByEJs1ipy5hu4",
+    "name": "peace",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "mood_vector": {
+      "valence": 0.328,
+      "energy": 0.284,
+      "danceability": 0.644,
+      "acousticness": 0.916,
+      "tempo_normalized": 0.600288
+    }
+  },
+  "202": {
+    "internal_id": 202,
+    "spotify_id": "4XCYmu7QLySdIahgBALKJK",
+    "uri": "spotify:track:4XCYmu7QLySdIahgBALKJK",
+    "name": "hoax",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "mood_vector": {
+      "valence": 0.404,
+      "energy": 0.178,
+      "danceability": 0.676,
+      "acousticness": 0.964,
+      "tempo_normalized": 0.47536
+    }
+  },
+  "203": {
+    "internal_id": 203,
+    "spotify_id": "0zEprKYeuGOIZoHyu6O1E2",
+    "uri": "spotify:track:0zEprKYeuGOIZoHyu6O1E2",
+    "name": "the lakes - bonus track",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "mood_vector": {
+      "valence": 0.268,
+      "energy": 0.258,
+      "danceability": 0.313,
+      "acousticness": 0.842,
+      "tempo_normalized": 0.719788
+    }
+  },
+  "204": {
+    "internal_id": 204,
+    "spotify_id": "08J4bMHbILkwSIhbtrcvjN",
+    "uri": "spotify:track:08J4bMHbILkwSIhbtrcvjN",
+    "name": "the 1 - the long pond studio sessions",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "mood_vector": {
+      "valence": 0.156,
+      "energy": 0.25,
+      "danceability": 0.708,
+      "acousticness": 0.898,
+      "tempo_normalized": 0.559212
+    }
+  },
+  "205": {
+    "internal_id": 205,
+    "spotify_id": "3EPgWM1zfTSzEc0z4AwWTM",
+    "uri": "spotify:track:3EPgWM1zfTSzEc0z4AwWTM",
+    "name": "cardigan - the long pond studio sessions",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "mood_vector": {
+      "valence": 0.247,
+      "energy": 0.234,
+      "danceability": 0.395,
+      "acousticness": 0.88,
+      "tempo_normalized": 0.345912
+    }
+  },
+  "206": {
+    "internal_id": 206,
+    "spotify_id": "28tIMaewZuGR8urkvFhQyA",
+    "uri": "spotify:track:28tIMaewZuGR8urkvFhQyA",
+    "name": "the last great american dynasty - the long pond studio sessions",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "mood_vector": {
+      "valence": 0.614,
+      "energy": 0.618,
+      "danceability": 0.64,
+      "acousticness": 0.743,
+      "tempo_normalized": 0.591792
+    }
+  },
+  "207": {
+    "internal_id": 207,
+    "spotify_id": "7N015NTIWGjQDddHUdHPoO",
+    "uri": "spotify:track:7N015NTIWGjQDddHUdHPoO",
+    "name": "exile (feat. Bon Iver) - the long pond studio sessions",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "mood_vector": {
+      "valence": 0.108,
+      "energy": 0.305,
+      "danceability": 0.359,
+      "acousticness": 0.848,
+      "tempo_normalized": 0.6078239999999999
+    }
+  },
+  "208": {
+    "internal_id": 208,
+    "spotify_id": "5mdNyCS7ttVcAyVYOIFEjs",
+    "uri": "spotify:track:5mdNyCS7ttVcAyVYOIFEjs",
+    "name": "my tears ricochet - the long pond studio sessions",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "mood_vector": {
+      "valence": 0.168,
+      "energy": 0.172,
+      "danceability": 0.531,
+      "acousticness": 0.946,
+      "tempo_normalized": 0.516028
+    }
+  },
+  "209": {
+    "internal_id": 209,
+    "spotify_id": "2yceD2hx5HhOLgkm1CITCi",
+    "uri": "spotify:track:2yceD2hx5HhOLgkm1CITCi",
+    "name": "mirrorball - the long pond studio sessions",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "mood_vector": {
+      "valence": 0.109,
+      "energy": 0.386,
+      "danceability": 0.509,
+      "acousticness": 0.78,
+      "tempo_normalized": 0.439972
+    }
+  },
+  "210": {
+    "internal_id": 210,
+    "spotify_id": "4cOWq0cVsKjxaQpRMbDoH1",
+    "uri": "spotify:track:4cOWq0cVsKjxaQpRMbDoH1",
+    "name": "seven - the long pond studio sessions",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "mood_vector": {
+      "valence": 0.363,
+      "energy": 0.449,
+      "danceability": 0.694,
+      "acousticness": 0.914,
+      "tempo_normalized": 0.37985199999999997
+    }
+  },
+  "211": {
+    "internal_id": 211,
+    "spotify_id": "4MGexoZc12lqE0hYkq9YYx",
+    "uri": "spotify:track:4MGexoZc12lqE0hYkq9YYx",
+    "name": "august - the long pond studio sessions",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "mood_vector": {
+      "valence": 0.545,
+      "energy": 0.663,
+      "danceability": 0.554,
+      "acousticness": 0.5,
+      "tempo_normalized": 0.359908
+    }
+  },
+  "212": {
+    "internal_id": 212,
+    "spotify_id": "1gaLZjPrDnHQWJds2Jg4KT",
+    "uri": "spotify:track:1gaLZjPrDnHQWJds2Jg4KT",
+    "name": "this is me trying - the long pond studio sessions",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "mood_vector": {
+      "valence": 0.157,
+      "energy": 0.332,
+      "danceability": 0.435,
+      "acousticness": 0.928,
+      "tempo_normalized": 0.27238799999999996
+    }
+  },
+  "213": {
+    "internal_id": 213,
+    "spotify_id": "560uQyz3p5G9WdnMX39xc6",
+    "uri": "spotify:track:560uQyz3p5G9WdnMX39xc6",
+    "name": "illicit affairs - the long pond studio sessions",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "mood_vector": {
+      "valence": 0.435,
+      "energy": 0.235,
+      "danceability": 0.489,
+      "acousticness": 0.883,
+      "tempo_normalized": 0.470796
+    }
+  },
+  "214": {
+    "internal_id": 214,
+    "spotify_id": "5KByGq0JijSSDcy0qzuINs",
+    "uri": "spotify:track:5KByGq0JijSSDcy0qzuINs",
+    "name": "invisible string - the long pond studio sessions",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "mood_vector": {
+      "valence": 0.351,
+      "energy": 0.282,
+      "danceability": 0.59,
+      "acousticness": 0.942,
+      "tempo_normalized": 0.333752
+    }
+  },
+  "215": {
+    "internal_id": 215,
+    "spotify_id": "04xrhDrQ2WOW8GLwu7kbc0",
+    "uri": "spotify:track:04xrhDrQ2WOW8GLwu7kbc0",
+    "name": "mad woman - the long pond studio sessions",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "mood_vector": {
+      "valence": 0.346,
+      "energy": 0.465,
+      "danceability": 0.663,
+      "acousticness": 0.887,
+      "tempo_normalized": 0.5673360000000001
+    }
+  },
+  "216": {
+    "internal_id": 216,
+    "spotify_id": "4yyKppX85ZkmlGOC2toBZA",
+    "uri": "spotify:track:4yyKppX85ZkmlGOC2toBZA",
+    "name": "epiphany - the long pond studio sessions",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "mood_vector": {
+      "valence": 0.113,
+      "energy": 0.2,
+      "danceability": 0.524,
+      "acousticness": 0.916,
+      "tempo_normalized": 0.37548000000000004
+    }
+  },
+  "217": {
+    "internal_id": 217,
+    "spotify_id": "1mh5dObNoOvCfHmXnhvDEK",
+    "uri": "spotify:track:1mh5dObNoOvCfHmXnhvDEK",
+    "name": "betty - the long pond studio sessions",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "mood_vector": {
+      "valence": 0.518,
+      "energy": 0.316,
+      "danceability": 0.538,
+      "acousticness": 0.841,
+      "tempo_normalized": 0.38272
+    }
+  },
+  "218": {
+    "internal_id": 218,
+    "spotify_id": "4YHHz3VIXgNDGdoL9xC1tx",
+    "uri": "spotify:track:4YHHz3VIXgNDGdoL9xC1tx",
+    "name": "peace - the long pond studio sessions",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "mood_vector": {
+      "valence": 0.513,
+      "energy": 0.344,
+      "danceability": 0.619,
+      "acousticness": 0.93,
+      "tempo_normalized": 0.599588
+    }
+  },
+  "219": {
+    "internal_id": 219,
+    "spotify_id": "0QTBsdoJhamY3Aid3fOsOd",
+    "uri": "spotify:track:0QTBsdoJhamY3Aid3fOsOd",
+    "name": "hoax - the long pond studio sessions",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "mood_vector": {
+      "valence": 0.483,
+      "energy": 0.155,
+      "danceability": 0.682,
+      "acousticness": 0.962,
+      "tempo_normalized": 0.475328
+    }
+  },
+  "220": {
+    "internal_id": 220,
+    "spotify_id": "6mqyTq948oap5AkyTsd6XF",
+    "uri": "spotify:track:6mqyTq948oap5AkyTsd6XF",
+    "name": "the lakes - the long pond studio sessions",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "mood_vector": {
+      "valence": 0.112,
+      "energy": 0.221,
+      "danceability": 0.606,
+      "acousticness": 0.794,
+      "tempo_normalized": 0.359376
+    }
+  },
+  "221": {
+    "internal_id": 221,
+    "spotify_id": "4pfrrhvplbJZAIsfosGWQP",
+    "uri": "spotify:track:4pfrrhvplbJZAIsfosGWQP",
+    "name": "the 1",
+    "album": "folklore (deluxe version)",
+    "mood_vector": {
+      "valence": 0.163,
+      "energy": 0.361,
+      "danceability": 0.78,
+      "acousticness": 0.75,
+      "tempo_normalized": 0.559608
+    }
+  },
+  "222": {
+    "internal_id": 222,
+    "spotify_id": "0KRYCBwIpWYFNrXOmXbyUh",
+    "uri": "spotify:track:0KRYCBwIpWYFNrXOmXbyUh",
+    "name": "cardigan",
+    "album": "folklore (deluxe version)",
+    "mood_vector": {
+      "valence": 0.534,
+      "energy": 0.58,
+      "danceability": 0.612,
+      "acousticness": 0.525,
+      "tempo_normalized": 0.52018
+    }
+  },
+  "223": {
+    "internal_id": 223,
+    "spotify_id": "2olxzvoFI9IpxqFeUv7WOX",
+    "uri": "spotify:track:2olxzvoFI9IpxqFeUv7WOX",
+    "name": "the last great american dynasty",
+    "album": "folklore (deluxe version)",
+    "mood_vector": {
+      "valence": 0.701,
+      "energy": 0.653,
+      "danceability": 0.688,
+      "acousticness": 0.481,
+      "tempo_normalized": 0.591964
+    }
+  },
+  "224": {
+    "internal_id": 224,
+    "spotify_id": "5S4aYQAJOwJMAamANWlICO",
+    "uri": "spotify:track:5S4aYQAJOwJMAamANWlICO",
+    "name": "exile (feat. Bon Iver)",
+    "album": "folklore (deluxe version)",
+    "mood_vector": {
+      "valence": 0.16,
+      "energy": 0.374,
+      "danceability": 0.31,
+      "acousticness": 0.761,
+      "tempo_normalized": 0.303752
+    }
+  },
+  "225": {
+    "internal_id": 225,
+    "spotify_id": "5P2bHCDM2tsgIaYWsZMhu5",
+    "uri": "spotify:track:5P2bHCDM2tsgIaYWsZMhu5",
+    "name": "my tears ricochet",
+    "album": "folklore (deluxe version)",
+    "mood_vector": {
+      "valence": 0.112,
+      "energy": 0.265,
+      "danceability": 0.456,
+      "acousticness": 0.814,
+      "tempo_normalized": 0.519788
+    }
+  },
+  "226": {
+    "internal_id": 226,
+    "spotify_id": "2I8YAEA1VmCuP1wkJHMpTw",
+    "uri": "spotify:track:2I8YAEA1VmCuP1wkJHMpTw",
+    "name": "mirrorball",
+    "album": "folklore (deluxe version)",
+    "mood_vector": {
+      "valence": 0.347,
+      "energy": 0.417,
+      "danceability": 0.549,
+      "acousticness": 0.686,
+      "tempo_normalized": 0.440548
+    }
+  },
+  "227": {
+    "internal_id": 227,
+    "spotify_id": "76mOLcXOjOEhyY4mMF1l3r",
+    "uri": "spotify:track:76mOLcXOjOEhyY4mMF1l3r",
+    "name": "seven",
+    "album": "folklore (deluxe version)",
+    "mood_vector": {
+      "valence": 0.374,
+      "energy": 0.494,
+      "danceability": 0.602,
+      "acousticness": 0.888,
+      "tempo_normalized": 0.37982
+    }
+  },
+  "228": {
+    "internal_id": 228,
+    "spotify_id": "6nK2pIKFcRc5frrZKHgsiT",
+    "uri": "spotify:track:6nK2pIKFcRc5frrZKHgsiT",
+    "name": "august",
+    "album": "folklore (deluxe version)",
+    "mood_vector": {
+      "valence": 0.42,
+      "energy": 0.634,
+      "danceability": 0.387,
+      "acousticness": 0.553,
+      "tempo_normalized": 0.358268
+    }
+  },
+  "229": {
+    "internal_id": 229,
+    "spotify_id": "7cm50Lw03k6VvRauJtkyTj",
+    "uri": "spotify:track:7cm50Lw03k6VvRauJtkyTj",
+    "name": "this is me trying",
+    "album": "folklore (deluxe version)",
+    "mood_vector": {
+      "valence": 0.408,
+      "energy": 0.478,
+      "danceability": 0.511,
+      "acousticness": 0.312,
+      "tempo_normalized": 0.543528
+    }
+  },
+  "230": {
+    "internal_id": 230,
+    "spotify_id": "6DrLROM5MG9bxWHeEG5elq",
+    "uri": "spotify:track:6DrLROM5MG9bxWHeEG5elq",
+    "name": "illicit affairs",
+    "album": "folklore (deluxe version)",
+    "mood_vector": {
+      "valence": 0.44,
+      "energy": 0.304,
+      "danceability": 0.529,
+      "acousticness": 0.862,
+      "tempo_normalized": 0.47831999999999997
+    }
+  },
+  "231": {
+    "internal_id": 231,
+    "spotify_id": "2ehRU518I0hYqMGQnk4lDY",
+    "uri": "spotify:track:2ehRU518I0hYqMGQnk4lDY",
+    "name": "invisible string",
+    "album": "folklore (deluxe version)",
+    "mood_vector": {
+      "valence": 0.454,
+      "energy": 0.459,
+      "danceability": 0.651,
+      "acousticness": 0.859,
+      "tempo_normalized": 0.33382
+    }
+  },
+  "232": {
+    "internal_id": 232,
+    "spotify_id": "0RP1kqoSPkVXsKiQNhMKzV",
+    "uri": "spotify:track:0RP1kqoSPkVXsKiQNhMKzV",
+    "name": "mad woman",
+    "album": "folklore (deluxe version)",
+    "mood_vector": {
+      "valence": 0.451,
+      "energy": 0.7,
+      "danceability": 0.593,
+      "acousticness": 0.67,
+      "tempo_normalized": 0.567592
+    }
+  },
+  "233": {
+    "internal_id": 233,
+    "spotify_id": "1EXa37LpSvi3OQ9UYQ28rD",
+    "uri": "spotify:track:1EXa37LpSvi3OQ9UYQ28rD",
+    "name": "epiphany",
+    "album": "folklore (deluxe version)",
+    "mood_vector": {
+      "valence": 0.103,
+      "energy": 0.254,
+      "danceability": 0.317,
+      "acousticness": 0.727,
+      "tempo_normalized": 0.375732
+    }
+  },
+  "234": {
+    "internal_id": 234,
+    "spotify_id": "3IhtE4fkytdrtEfV34UzkD",
+    "uri": "spotify:track:3IhtE4fkytdrtEfV34UzkD",
+    "name": "betty",
+    "album": "folklore (deluxe version)",
+    "mood_vector": {
+      "valence": 0.476,
+      "energy": 0.376,
+      "danceability": 0.595,
+      "acousticness": 0.589,
+      "tempo_normalized": 0.383784
+    }
+  },
+  "235": {
+    "internal_id": 235,
+    "spotify_id": "6JlI8Ay77m4nJvZTHvfT1J",
+    "uri": "spotify:track:6JlI8Ay77m4nJvZTHvfT1J",
+    "name": "peace",
+    "album": "folklore (deluxe version)",
+    "mood_vector": {
+      "valence": 0.328,
+      "energy": 0.284,
+      "danceability": 0.644,
+      "acousticness": 0.916,
+      "tempo_normalized": 0.600288
+    }
+  },
+  "236": {
+    "internal_id": 236,
+    "spotify_id": "0YeDG5HnKnG7jpArkzsSPa",
+    "uri": "spotify:track:0YeDG5HnKnG7jpArkzsSPa",
+    "name": "hoax",
+    "album": "folklore (deluxe version)",
+    "mood_vector": {
+      "valence": 0.404,
+      "energy": 0.178,
+      "danceability": 0.676,
+      "acousticness": 0.964,
+      "tempo_normalized": 0.47536
+    }
+  },
+  "237": {
+    "internal_id": 237,
+    "spotify_id": "0eFQWVz0qIxDOvhLpZ40P7",
+    "uri": "spotify:track:0eFQWVz0qIxDOvhLpZ40P7",
+    "name": "the lakes - bonus track",
+    "album": "folklore (deluxe version)",
+    "mood_vector": {
+      "valence": 0.268,
+      "energy": 0.258,
+      "danceability": 0.313,
+      "acousticness": 0.842,
+      "tempo_normalized": 0.719788
+    }
+  },
+  "238": {
+    "internal_id": 238,
+    "spotify_id": "43rA71bccXFGD4C8GOpIlN",
+    "uri": "spotify:track:43rA71bccXFGD4C8GOpIlN",
+    "name": "I Forgot That You Existed",
+    "album": "Lover",
+    "mood_vector": {
+      "valence": 0.541,
+      "energy": 0.316,
+      "danceability": 0.664,
+      "acousticness": 0.298,
+      "tempo_normalized": 0.3715
+    }
+  },
+  "239": {
+    "internal_id": 239,
+    "spotify_id": "1BxfuPKGuaTgP7aM0Bbdwr",
+    "uri": "spotify:track:1BxfuPKGuaTgP7aM0Bbdwr",
+    "name": "Cruel Summer",
+    "album": "Lover",
+    "mood_vector": {
+      "valence": 0.564,
+      "energy": 0.702,
+      "danceability": 0.552,
+      "acousticness": 0.117,
+      "tempo_normalized": 0.679976
+    }
+  },
+  "240": {
+    "internal_id": 240,
+    "spotify_id": "1dGr1c8CrMLDpV6mPbImSI",
+    "uri": "spotify:track:1dGr1c8CrMLDpV6mPbImSI",
+    "name": "Lover",
+    "album": "Lover",
+    "mood_vector": {
+      "valence": 0.453,
+      "energy": 0.543,
+      "danceability": 0.359,
+      "acousticness": 0.492,
+      "tempo_normalized": 0.27413600000000005
+    }
+  },
+  "241": {
+    "internal_id": 241,
+    "spotify_id": "3RauEVgRgj1IuWdJ9fDs70",
+    "uri": "spotify:track:3RauEVgRgj1IuWdJ9fDs70",
+    "name": "The Man",
+    "album": "Lover",
+    "mood_vector": {
+      "valence": 0.633,
+      "energy": 0.658,
+      "danceability": 0.777,
+      "acousticness": 0.0767,
+      "tempo_normalized": 0.440192
+    }
+  },
+  "242": {
+    "internal_id": 242,
+    "spotify_id": "3pHkh7d0lzM2AldUtz2x37",
+    "uri": "spotify:track:3pHkh7d0lzM2AldUtz2x37",
+    "name": "The Archer",
+    "album": "Lover",
+    "mood_vector": {
+      "valence": 0.166,
+      "energy": 0.574,
+      "danceability": 0.292,
+      "acousticness": 0.12,
+      "tempo_normalized": 0.497376
+    }
+  },
+  "243": {
+    "internal_id": 243,
+    "spotify_id": "2YWtcWi3a83pdEg3Gif4Pd",
+    "uri": "spotify:track:2YWtcWi3a83pdEg3Gif4Pd",
+    "name": "I Think He Knows",
+    "album": "Lover",
+    "mood_vector": {
+      "valence": 0.416,
+      "energy": 0.366,
+      "danceability": 0.897,
+      "acousticness": 0.00889,
+      "tempo_normalized": 0.400012
+    }
+  },
+  "244": {
+    "internal_id": 244,
+    "spotify_id": "214nt20w5wOxJnY462klLw",
+    "uri": "spotify:track:214nt20w5wOxJnY462klLw",
+    "name": "Miss Americana & The Heartbreak Prince",
+    "album": "Lover",
+    "mood_vector": {
+      "valence": 0.487,
+      "energy": 0.747,
+      "danceability": 0.662,
+      "acousticness": 0.028,
+      "tempo_normalized": 0.600352
+    }
+  },
+  "245": {
+    "internal_id": 245,
+    "spotify_id": "4y5bvROuBDPr5fuwXbIBZR",
+    "uri": "spotify:track:4y5bvROuBDPr5fuwXbIBZR",
+    "name": "Paper Rings",
+    "album": "Lover",
+    "mood_vector": {
+      "valence": 0.865,
+      "energy": 0.719,
+      "danceability": 0.811,
+      "acousticness": 0.0129,
+      "tempo_normalized": 0.415916
+    }
+  },
+  "246": {
+    "internal_id": 246,
+    "spotify_id": "12M5uqx0ZuwkpLp5rJim1a",
+    "uri": "spotify:track:12M5uqx0ZuwkpLp5rJim1a",
+    "name": "Cornelia Street",
+    "album": "Lover",
+    "mood_vector": {
+      "valence": 0.248,
+      "energy": 0.624,
+      "danceability": 0.824,
+      "acousticness": 0.781,
+      "tempo_normalized": 0.408048
+    }
+  },
+  "247": {
+    "internal_id": 247,
+    "spotify_id": "2dgFqt3w9xIQRjhPtwNk3D",
+    "uri": "spotify:track:2dgFqt3w9xIQRjhPtwNk3D",
+    "name": "Death By A Thousand Cuts",
+    "album": "Lover",
+    "mood_vector": {
+      "valence": 0.313,
+      "energy": 0.732,
+      "danceability": 0.712,
+      "acousticness": 0.454,
+      "tempo_normalized": 0.376284
+    }
+  },
+  "248": {
+    "internal_id": 248,
+    "spotify_id": "1LLXZFeAHK9R4xUramtUKw",
+    "uri": "spotify:track:1LLXZFeAHK9R4xUramtUKw",
+    "name": "London Boy",
+    "album": "Lover",
+    "mood_vector": {
+      "valence": 0.557,
+      "energy": 0.71,
+      "danceability": 0.695,
+      "acousticness": 0.0246,
+      "tempo_normalized": 0.6317
+    }
+  },
+  "249": {
+    "internal_id": 249,
+    "spotify_id": "4AYtqFyFbX0Xkc2wtcygTr",
+    "uri": "spotify:track:4AYtqFyFbX0Xkc2wtcygTr",
+    "name": "Soon You’ll Get Better (feat. The Chicks)",
+    "album": "Lover",
+    "mood_vector": {
+      "valence": 0.421,
+      "energy": 0.182,
+      "danceability": 0.433,
+      "acousticness": 0.907,
+      "tempo_normalized": 0.829904
+    }
+  },
+  "250": {
+    "internal_id": 250,
+    "spotify_id": "5hQSXkFgbxjZo9uCwd11so",
+    "uri": "spotify:track:5hQSXkFgbxjZo9uCwd11so",
+    "name": "False God",
+    "album": "Lover",
+    "mood_vector": {
+      "valence": 0.351,
+      "energy": 0.32,
+      "danceability": 0.739,
+      "acousticness": 0.736,
+      "tempo_normalized": 0.31988
+    }
+  },
+  "251": {
+    "internal_id": 251,
+    "spotify_id": "6RRNNciQGZEXnqk8SQ9yv5",
+    "uri": "spotify:track:6RRNNciQGZEXnqk8SQ9yv5",
+    "name": "You Need To Calm Down",
+    "album": "Lover",
+    "mood_vector": {
+      "valence": 0.714,
+      "energy": 0.671,
+      "danceability": 0.771,
+      "acousticness": 0.00929,
+      "tempo_normalized": 0.34010399999999996
+    }
+  },
+  "252": {
+    "internal_id": 252,
+    "spotify_id": "1SymEzIT3H8UZfibCs3TYi",
+    "uri": "spotify:track:1SymEzIT3H8UZfibCs3TYi",
+    "name": "Afterglow",
+    "album": "Lover",
+    "mood_vector": {
+      "valence": 0.399,
+      "energy": 0.449,
+      "danceability": 0.756,
+      "acousticness": 0.13,
+      "tempo_normalized": 0.444044
+    }
+  },
+  "253": {
+    "internal_id": 253,
+    "spotify_id": "2Rk4JlNc2TPmZe2af99d45",
+    "uri": "spotify:track:2Rk4JlNc2TPmZe2af99d45",
+    "name": "ME! (feat. Brendon Urie of Panic! At The Disco)",
+    "album": "Lover",
+    "mood_vector": {
+      "valence": 0.728,
+      "energy": 0.83,
+      "danceability": 0.61,
+      "acousticness": 0.033,
+      "tempo_normalized": 0.7286480000000001
+    }
+  },
+  "254": {
+    "internal_id": 254,
+    "spotify_id": "1SmiQ65iSAbPto6gPFlBYm",
+    "uri": "spotify:track:1SmiQ65iSAbPto6gPFlBYm",
+    "name": "It’s Nice To Have A Friend",
+    "album": "Lover",
+    "mood_vector": {
+      "valence": 0.545,
+      "energy": 0.175,
+      "danceability": 0.737,
+      "acousticness": 0.971,
+      "tempo_normalized": 0.280032
+    }
+  },
+  "255": {
+    "internal_id": 255,
+    "spotify_id": "1fzAuUVbzlhZ1lJAx9PtY6",
+    "uri": "spotify:track:1fzAuUVbzlhZ1lJAx9PtY6",
+    "name": "Daylight",
+    "album": "Lover",
+    "mood_vector": {
+      "valence": 0.265,
+      "energy": 0.496,
+      "danceability": 0.557,
+      "acousticness": 0.808,
+      "tempo_normalized": 0.599932
+    }
+  },
+  "256": {
+    "internal_id": 256,
+    "spotify_id": "2yLa0QULdQr0qAIvVwN6B5",
+    "uri": "spotify:track:2yLa0QULdQr0qAIvVwN6B5",
+    "name": "...Ready For It?",
+    "album": "reputation",
+    "mood_vector": {
+      "valence": 0.417,
+      "energy": 0.764,
+      "danceability": 0.613,
+      "acousticness": 0.0527,
+      "tempo_normalized": 0.64006
+    }
+  },
+  "257": {
+    "internal_id": 257,
+    "spotify_id": "2x0WlnmfG39ZuDmstl9xfX",
+    "uri": "spotify:track:2x0WlnmfG39ZuDmstl9xfX",
+    "name": "End Game",
+    "album": "reputation",
+    "mood_vector": {
+      "valence": 0.151,
+      "energy": 0.589,
+      "danceability": 0.649,
+      "acousticness": 0.00845,
+      "tempo_normalized": 0.6362920000000001
+    }
+  },
+  "258": {
+    "internal_id": 258,
+    "spotify_id": "4svZDCRz4cJoneBpjpx8DJ",
+    "uri": "spotify:track:4svZDCRz4cJoneBpjpx8DJ",
+    "name": "I Did Something Bad",
+    "album": "reputation",
+    "mood_vector": {
+      "valence": 0.305,
+      "energy": 0.602,
+      "danceability": 0.696,
+      "acousticness": 0.0679,
+      "tempo_normalized": 0.33195600000000003
+    }
+  },
+  "259": {
+    "internal_id": 259,
+    "spotify_id": "1R0a2iXumgCiFb7HEZ7gUE",
+    "uri": "spotify:track:1R0a2iXumgCiFb7HEZ7gUE",
+    "name": "Don’t Blame Me",
+    "album": "reputation",
+    "mood_vector": {
+      "valence": 0.193,
+      "energy": 0.534,
+      "danceability": 0.615,
+      "acousticness": 0.106,
+      "tempo_normalized": 0.543668
+    }
+  },
+  "260": {
+    "internal_id": 260,
+    "spotify_id": "6NFyWDv5CjfwuzoCkw47Xf",
+    "uri": "spotify:track:6NFyWDv5CjfwuzoCkw47Xf",
+    "name": "Delicate",
+    "album": "reputation",
+    "mood_vector": {
+      "valence": 0.0499,
+      "energy": 0.404,
+      "danceability": 0.75,
+      "acousticness": 0.216,
+      "tempo_normalized": 0.38018
+    }
+  },
+  "261": {
+    "internal_id": 261,
+    "spotify_id": "1P17dC1amhFzptugyAO7Il",
+    "uri": "spotify:track:1P17dC1amhFzptugyAO7Il",
+    "name": "Look What You Made Me Do",
+    "album": "reputation",
+    "mood_vector": {
+      "valence": 0.506,
+      "energy": 0.709,
+      "danceability": 0.766,
+      "acousticness": 0.204,
+      "tempo_normalized": 0.51228
+    }
+  },
+  "262": {
+    "internal_id": 262,
+    "spotify_id": "5PxFv9yJEg9dxvbZggykro",
+    "uri": "spotify:track:5PxFv9yJEg9dxvbZggykro",
+    "name": "So It Goes...",
+    "album": "reputation",
+    "mood_vector": {
+      "valence": 0.374,
+      "energy": 0.61,
+      "danceability": 0.574,
+      "acousticness": 0.122,
+      "tempo_normalized": 0.299828
+    }
+  },
+  "263": {
+    "internal_id": 263,
+    "spotify_id": "1ZY1PqizIl78geGM4xWlEA",
+    "uri": "spotify:track:1ZY1PqizIl78geGM4xWlEA",
+    "name": "Gorgeous",
+    "album": "reputation",
+    "mood_vector": {
+      "valence": 0.451,
+      "energy": 0.535,
+      "danceability": 0.8,
+      "acousticness": 0.0713,
+      "tempo_normalized": 0.368108
+    }
+  },
+  "264": {
+    "internal_id": 264,
+    "spotify_id": "0VE4kBnHJUgtMf0dy6DRmW",
+    "uri": "spotify:track:0VE4kBnHJUgtMf0dy6DRmW",
+    "name": "Getaway Car",
+    "album": "reputation",
+    "mood_vector": {
+      "valence": 0.351,
+      "energy": 0.689,
+      "danceability": 0.562,
+      "acousticness": 0.00465,
+      "tempo_normalized": 0.688216
+    }
+  },
+  "265": {
+    "internal_id": 265,
+    "spotify_id": "7HuBDWi18s4aJM8UFnNheH",
+    "uri": "spotify:track:7HuBDWi18s4aJM8UFnNheH",
+    "name": "King Of My Heart",
+    "album": "reputation",
+    "mood_vector": {
+      "valence": 0.314,
+      "energy": 0.703,
+      "danceability": 0.675,
+      "acousticness": 0.00882,
+      "tempo_normalized": 0.44004000000000004
+    }
+  },
+  "266": {
+    "internal_id": 266,
+    "spotify_id": "7I7JbDv63ZJJsSi24DyJrz",
+    "uri": "spotify:track:7I7JbDv63ZJJsSi24DyJrz",
+    "name": "Dancing With Our Hands Tied",
+    "album": "reputation",
+    "mood_vector": {
+      "valence": 0.284,
+      "energy": 0.691,
+      "danceability": 0.624,
+      "acousticness": 0.0604,
+      "tempo_normalized": 0.640096
+    }
+  },
+  "267": {
+    "internal_id": 267,
+    "spotify_id": "6oVxXO5oQ4pTpO8RSnkzvv",
+    "uri": "spotify:track:6oVxXO5oQ4pTpO8RSnkzvv",
+    "name": "Dress",
+    "album": "reputation",
+    "mood_vector": {
+      "valence": 0.0851,
+      "energy": 0.469,
+      "danceability": 0.719,
+      "acousticness": 0.0329,
+      "tempo_normalized": 0.48034
+    }
+  },
+  "268": {
+    "internal_id": 268,
+    "spotify_id": "07NxDD1iKCHbAldceD7QLP",
+    "uri": "spotify:track:07NxDD1iKCHbAldceD7QLP",
+    "name": "This Is Why We Can't Have Nice Things",
+    "album": "reputation",
+    "mood_vector": {
+      "valence": 0.438,
+      "energy": 0.789,
+      "danceability": 0.567,
+      "acousticness": 0.0156,
+      "tempo_normalized": 0.65584
+    }
+  },
+  "269": {
+    "internal_id": 269,
+    "spotify_id": "1GwMQaZz6Au3QLDbjbMdme",
+    "uri": "spotify:track:1GwMQaZz6Au3QLDbjbMdme",
+    "name": "Call It What You Want",
+    "album": "reputation",
+    "mood_vector": {
+      "valence": 0.252,
+      "energy": 0.504,
+      "danceability": 0.598,
+      "acousticness": 0.186,
+      "tempo_normalized": 0.6558160000000001
+    }
+  },
+  "270": {
+    "internal_id": 270,
+    "spotify_id": "7F5oktn5YOsR9eR5YsFtqb",
+    "uri": "spotify:track:7F5oktn5YOsR9eR5YsFtqb",
+    "name": "New Year’s Day",
+    "album": "reputation",
+    "mood_vector": {
+      "valence": 0.23,
+      "energy": 0.151,
+      "danceability": 0.661,
+      "acousticness": 0.921,
+      "tempo_normalized": 0.37968799999999997
+    }
+  },
+  "271": {
+    "internal_id": 271,
+    "spotify_id": "0b16LTzby1YRVd2nq2Z0fw",
+    "uri": "spotify:track:0b16LTzby1YRVd2nq2Z0fw",
+    "name": "State Of Grace",
+    "album": "Red (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.397,
+      "energy": 0.825,
+      "danceability": 0.588,
+      "acousticness": 0.000197,
+      "tempo_normalized": 0.519872
+    }
+  },
+  "272": {
+    "internal_id": 272,
+    "spotify_id": "7gJtmLyPTwKzhGzMBXtuXH",
+    "uri": "spotify:track:7gJtmLyPTwKzhGzMBXtuXH",
+    "name": "Red",
+    "album": "Red (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.641,
+      "energy": 0.896,
+      "danceability": 0.602,
+      "acousticness": 0.0773,
+      "tempo_normalized": 0.49991199999999997
+    }
+  },
+  "273": {
+    "internal_id": 273,
+    "spotify_id": "7nECwCDHS1JvQbrmuorZIH",
+    "uri": "spotify:track:7nECwCDHS1JvQbrmuorZIH",
+    "name": "Treacherous",
+    "album": "Red (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.395,
+      "energy": 0.621,
+      "danceability": 0.704,
+      "acousticness": 0.101,
+      "tempo_normalized": 0.43998000000000004
+    }
+  },
+  "274": {
+    "internal_id": 274,
+    "spotify_id": "3lKZf71jeNi14udIFPJ29V",
+    "uri": "spotify:track:3lKZf71jeNi14udIFPJ29V",
+    "name": "I Knew You Were Trouble.",
+    "album": "Red (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.679,
+      "energy": 0.469,
+      "danceability": 0.622,
+      "acousticness": 0.00454,
+      "tempo_normalized": 0.308076
+    }
+  },
+  "275": {
+    "internal_id": 275,
+    "spotify_id": "6GNRkaWUB0Lwc19SdkTgx8",
+    "uri": "spotify:track:6GNRkaWUB0Lwc19SdkTgx8",
+    "name": "All Too Well",
+    "album": "Red (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.337,
+      "energy": 0.609,
+      "danceability": 0.602,
+      "acousticness": 0.0382,
+      "tempo_normalized": 0.37224
+    }
+  },
+  "276": {
+    "internal_id": 276,
+    "spotify_id": "3WC5CVAahvn98hiseoIvbw",
+    "uri": "spotify:track:3WC5CVAahvn98hiseoIvbw",
+    "name": "22",
+    "album": "Red (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.668,
+      "energy": 0.729,
+      "danceability": 0.661,
+      "acousticness": 0.00215,
+      "tempo_normalized": 0.415948
+    }
+  },
+  "277": {
+    "internal_id": 277,
+    "spotify_id": "1eyqSYBCTane4rl4vc6PWJ",
+    "uri": "spotify:track:1eyqSYBCTane4rl4vc6PWJ",
+    "name": "I Almost Do",
+    "album": "Red (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.233,
+      "energy": 0.481,
+      "danceability": 0.567,
+      "acousticness": 0.0173,
+      "tempo_normalized": 0.5834600000000001
+    }
+  },
+  "278": {
+    "internal_id": 278,
+    "spotify_id": "6kISMRfweKSvgHR0urMQFG",
+    "uri": "spotify:track:6kISMRfweKSvgHR0urMQFG",
+    "name": "We Are Never Ever Getting Back Together",
+    "album": "Red (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.75,
+      "energy": 0.676,
+      "danceability": 0.628,
+      "acousticness": 0.00957,
+      "tempo_normalized": 0.34393599999999996
+    }
+  },
+  "279": {
+    "internal_id": 279,
+    "spotify_id": "0F2S1QlnMaOfmNHIgmES3k",
+    "uri": "spotify:track:0F2S1QlnMaOfmNHIgmES3k",
+    "name": "Stay Stay Stay",
+    "album": "Red (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.928,
+      "energy": 0.748,
+      "danceability": 0.729,
+      "acousticness": 0.307,
+      "tempo_normalized": 0.399924
+    }
+  },
+  "280": {
+    "internal_id": 280,
+    "spotify_id": "2Tz4JnXZOcjcp8fWfMjBBk",
+    "uri": "spotify:track:2Tz4JnXZOcjcp8fWfMjBBk",
+    "name": "The Last Time",
+    "album": "Red (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.123,
+      "energy": 0.443,
+      "danceability": 0.505,
+      "acousticness": 0.035,
+      "tempo_normalized": 0.376276
+    }
+  },
+  "281": {
+    "internal_id": 281,
+    "spotify_id": "3KmYVOuK2eG7LGP7qQ8DLR",
+    "uri": "spotify:track:3KmYVOuK2eG7LGP7qQ8DLR",
+    "name": "Holy Ground",
+    "album": "Red (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.648,
+      "energy": 0.816,
+      "danceability": 0.627,
+      "acousticness": 0.0162,
+      "tempo_normalized": 0.6281720000000001
+    }
+  },
+  "282": {
+    "internal_id": 282,
+    "spotify_id": "70e9zuv2pJc7ON1OUAJ1zl",
+    "uri": "spotify:track:70e9zuv2pJc7ON1OUAJ1zl",
+    "name": "Sad Beautiful Tragic",
+    "album": "Red (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.261,
+      "energy": 0.34,
+      "danceability": 0.624,
+      "acousticness": 0.632,
+      "tempo_normalized": 0.519948
+    }
+  },
+  "283": {
+    "internal_id": 283,
+    "spotify_id": "5VQLMrWhailAhErKNUSnv1",
+    "uri": "spotify:track:5VQLMrWhailAhErKNUSnv1",
+    "name": "The Lucky One",
+    "album": "Red (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.545,
+      "energy": 0.499,
+      "danceability": 0.706,
+      "acousticness": 0.0371,
+      "tempo_normalized": 0.471748
+    }
+  },
+  "284": {
+    "internal_id": 284,
+    "spotify_id": "5PjfMmF06QtxTPZBZHdhoZ",
+    "uri": "spotify:track:5PjfMmF06QtxTPZBZHdhoZ",
+    "name": "Everything Has Changed",
+    "album": "Red (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.436,
+      "energy": 0.458,
+      "danceability": 0.624,
+      "acousticness": 0.36,
+      "tempo_normalized": 0.320064
+    }
+  },
+  "285": {
+    "internal_id": 285,
+    "spotify_id": "1gL4vMhDV3RgJQmDuY5HK1",
+    "uri": "spotify:track:1gL4vMhDV3RgJQmDuY5HK1",
+    "name": "Starlight",
+    "album": "Red (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.587,
+      "energy": 0.777,
+      "danceability": 0.649,
+      "acousticness": 0.0213,
+      "tempo_normalized": 0.504072
+    }
+  },
+  "286": {
+    "internal_id": 286,
+    "spotify_id": "1yG491M3fRfowMdGN5pey4",
+    "uri": "spotify:track:1yG491M3fRfowMdGN5pey4",
+    "name": "Begin Again",
+    "album": "Red (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.323,
+      "energy": 0.526,
+      "danceability": 0.53,
+      "acousticness": 0.199,
+      "tempo_normalized": 0.31610000000000005
+    }
+  },
+  "287": {
+    "internal_id": 287,
+    "spotify_id": "4qTAwKJQ68gmnrnfPD3vlO",
+    "uri": "spotify:track:4qTAwKJQ68gmnrnfPD3vlO",
+    "name": "The Moment I Knew",
+    "album": "Red (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.274,
+      "energy": 0.506,
+      "danceability": 0.619,
+      "acousticness": 0.187,
+      "tempo_normalized": 0.50412
+    }
+  },
+  "288": {
+    "internal_id": 288,
+    "spotify_id": "1n8rB9AhxiAvVP1E2c3yOd",
+    "uri": "spotify:track:1n8rB9AhxiAvVP1E2c3yOd",
+    "name": "Come Back...Be Here",
+    "album": "Red (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.217,
+      "energy": 0.548,
+      "danceability": 0.483,
+      "acousticness": 0.00471,
+      "tempo_normalized": 0.319704
+    }
+  },
+  "289": {
+    "internal_id": 289,
+    "spotify_id": "6VFpuI0DDmbC5UyWZQ4IRY",
+    "uri": "spotify:track:6VFpuI0DDmbC5UyWZQ4IRY",
+    "name": "Girl At Home",
+    "album": "Red (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.633,
+      "energy": 0.59,
+      "danceability": 0.733,
+      "acousticness": 0.272,
+      "tempo_normalized": 0.500192
+    }
+  },
+  "290": {
+    "internal_id": 290,
+    "spotify_id": "7skiELMb9SiQCcBpsExIJf",
+    "uri": "spotify:track:7skiELMb9SiQCcBpsExIJf",
+    "name": "Treacherous - Original Demo Recording",
+    "album": "Red (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.519,
+      "energy": 0.64,
+      "danceability": 0.828,
+      "acousticness": 0.175,
+      "tempo_normalized": 0.439972
+    }
+  },
+  "291": {
+    "internal_id": 291,
+    "spotify_id": "2OghnlGqZZsFzHjG0CSE9l",
+    "uri": "spotify:track:2OghnlGqZZsFzHjG0CSE9l",
+    "name": "Red - Original Demo Recording",
+    "album": "Red (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.637,
+      "energy": 0.902,
+      "danceability": 0.678,
+      "acousticness": 0.113,
+      "tempo_normalized": 0.499992
+    }
+  },
+  "292": {
+    "internal_id": 292,
+    "spotify_id": "5mfDBWY7ncZFm7ykmFTG4i",
+    "uri": "spotify:track:5mfDBWY7ncZFm7ykmFTG4i",
+    "name": "State Of Grace - Acoustic",
+    "album": "Red (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.0682,
+      "energy": 0.118,
+      "danceability": 0.626,
+      "acousticness": 0.664,
+      "tempo_normalized": 0.422388
+    }
+  },
+  "293": {
+    "internal_id": 293,
+    "spotify_id": "786NsUYn4GGUf8AOt0SQhP",
+    "uri": "spotify:track:786NsUYn4GGUf8AOt0SQhP",
+    "name": "State Of Grace",
+    "album": "Red",
+    "mood_vector": {
+      "valence": 0.397,
+      "energy": 0.825,
+      "danceability": 0.588,
+      "acousticness": 0.000197,
+      "tempo_normalized": 0.519872
+    }
+  },
+  "294": {
+    "internal_id": 294,
+    "spotify_id": "0cITLOYn1Sv4q27zZPqlNK",
+    "uri": "spotify:track:0cITLOYn1Sv4q27zZPqlNK",
+    "name": "Red",
+    "album": "Red",
+    "mood_vector": {
+      "valence": 0.641,
+      "energy": 0.896,
+      "danceability": 0.602,
+      "acousticness": 0.0773,
+      "tempo_normalized": 0.49991199999999997
+    }
+  },
+  "295": {
+    "internal_id": 295,
+    "spotify_id": "5kYFVSQoPu7yRpfiHBwMUk",
+    "uri": "spotify:track:5kYFVSQoPu7yRpfiHBwMUk",
+    "name": "Treacherous",
+    "album": "Red",
+    "mood_vector": {
+      "valence": 0.395,
+      "energy": 0.621,
+      "danceability": 0.705,
+      "acousticness": 0.101,
+      "tempo_normalized": 0.439972
+    }
+  },
+  "296": {
+    "internal_id": 296,
+    "spotify_id": "72jCZdH0Lhg93z6Z4hBjgj",
+    "uri": "spotify:track:72jCZdH0Lhg93z6Z4hBjgj",
+    "name": "I Knew You Were Trouble.",
+    "album": "Red",
+    "mood_vector": {
+      "valence": 0.679,
+      "energy": 0.469,
+      "danceability": 0.622,
+      "acousticness": 0.00454,
+      "tempo_normalized": 0.308076
+    }
+  },
+  "297": {
+    "internal_id": 297,
+    "spotify_id": "4XMP3zVxrnr58T0tjIHvpR",
+    "uri": "spotify:track:4XMP3zVxrnr58T0tjIHvpR",
+    "name": "All Too Well",
+    "album": "Red",
+    "mood_vector": {
+      "valence": 0.337,
+      "energy": 0.609,
+      "danceability": 0.602,
+      "acousticness": 0.0382,
+      "tempo_normalized": 0.37224
+    }
+  },
+  "298": {
+    "internal_id": 298,
+    "spotify_id": "2ULNeSomDxVNmdDy8VxEBU",
+    "uri": "spotify:track:2ULNeSomDxVNmdDy8VxEBU",
+    "name": "22",
+    "album": "Red",
+    "mood_vector": {
+      "valence": 0.668,
+      "energy": 0.729,
+      "danceability": 0.658,
+      "acousticness": 0.00215,
+      "tempo_normalized": 0.416028
+    }
+  },
+  "299": {
+    "internal_id": 299,
+    "spotify_id": "5VwFkx7JOimOGTYfha5rs1",
+    "uri": "spotify:track:5VwFkx7JOimOGTYfha5rs1",
+    "name": "I Almost Do",
+    "album": "Red",
+    "mood_vector": {
+      "valence": 0.233,
+      "energy": 0.481,
+      "danceability": 0.567,
+      "acousticness": 0.0173,
+      "tempo_normalized": 0.5834600000000001
+    }
+  },
+  "300": {
+    "internal_id": 300,
+    "spotify_id": "7AEAGTc8cReDqcbPoY9gwo",
+    "uri": "spotify:track:7AEAGTc8cReDqcbPoY9gwo",
+    "name": "We Are Never Ever Getting Back Together",
+    "album": "Red",
+    "mood_vector": {
+      "valence": 0.75,
+      "energy": 0.676,
+      "danceability": 0.628,
+      "acousticness": 0.00957,
+      "tempo_normalized": 0.34393599999999996
+    }
+  },
+  "301": {
+    "internal_id": 301,
+    "spotify_id": "1qLeEu4iXEclkLwoBlMiou",
+    "uri": "spotify:track:1qLeEu4iXEclkLwoBlMiou",
+    "name": "Stay Stay Stay",
+    "album": "Red",
+    "mood_vector": {
+      "valence": 0.928,
+      "energy": 0.748,
+      "danceability": 0.729,
+      "acousticness": 0.307,
+      "tempo_normalized": 0.399924
+    }
+  },
+  "302": {
+    "internal_id": 302,
+    "spotify_id": "3n9mzjgAzjyKawvbHzciXF",
+    "uri": "spotify:track:3n9mzjgAzjyKawvbHzciXF",
+    "name": "The Last Time",
+    "album": "Red",
+    "mood_vector": {
+      "valence": 0.123,
+      "energy": 0.443,
+      "danceability": 0.505,
+      "acousticness": 0.035,
+      "tempo_normalized": 0.376276
+    }
+  },
+  "303": {
+    "internal_id": 303,
+    "spotify_id": "1fGsZsIkQkOspfsT24nQP6",
+    "uri": "spotify:track:1fGsZsIkQkOspfsT24nQP6",
+    "name": "Holy Ground",
+    "album": "Red",
+    "mood_vector": {
+      "valence": 0.648,
+      "energy": 0.816,
+      "danceability": 0.627,
+      "acousticness": 0.0162,
+      "tempo_normalized": 0.6281720000000001
+    }
+  },
+  "304": {
+    "internal_id": 304,
+    "spotify_id": "6LKjHhOW1az75pCQ9XJJtF",
+    "uri": "spotify:track:6LKjHhOW1az75pCQ9XJJtF",
+    "name": "Sad Beautiful Tragic",
+    "album": "Red",
+    "mood_vector": {
+      "valence": 0.261,
+      "energy": 0.34,
+      "danceability": 0.624,
+      "acousticness": 0.632,
+      "tempo_normalized": 0.519948
+    }
+  },
+  "305": {
+    "internal_id": 305,
+    "spotify_id": "2X2J0BhxaLTmnxO4pPUhSd",
+    "uri": "spotify:track:2X2J0BhxaLTmnxO4pPUhSd",
+    "name": "The Lucky One",
+    "album": "Red",
+    "mood_vector": {
+      "valence": 0.545,
+      "energy": 0.499,
+      "danceability": 0.706,
+      "acousticness": 0.0371,
+      "tempo_normalized": 0.471748
+    }
+  },
+  "306": {
+    "internal_id": 306,
+    "spotify_id": "4NAmRvqSITAAzKWnC8yRq3",
+    "uri": "spotify:track:4NAmRvqSITAAzKWnC8yRq3",
+    "name": "Everything Has Changed",
+    "album": "Red",
+    "mood_vector": {
+      "valence": 0.436,
+      "energy": 0.458,
+      "danceability": 0.624,
+      "acousticness": 0.36,
+      "tempo_normalized": 0.32006799999999996
+    }
+  },
+  "307": {
+    "internal_id": 307,
+    "spotify_id": "7MecVsMj22MneZt7kVFaCr",
+    "uri": "spotify:track:7MecVsMj22MneZt7kVFaCr",
+    "name": "Starlight",
+    "album": "Red",
+    "mood_vector": {
+      "valence": 0.587,
+      "energy": 0.777,
+      "danceability": 0.649,
+      "acousticness": 0.0213,
+      "tempo_normalized": 0.504072
+    }
+  },
+  "308": {
+    "internal_id": 308,
+    "spotify_id": "0L4YCNRfXAoTvdpWeH2RGj",
+    "uri": "spotify:track:0L4YCNRfXAoTvdpWeH2RGj",
+    "name": "Begin Again",
+    "album": "Red",
+    "mood_vector": {
+      "valence": 0.323,
+      "energy": 0.526,
+      "danceability": 0.53,
+      "acousticness": 0.199,
+      "tempo_normalized": 0.31610000000000005
+    }
+  },
+  "309": {
+    "internal_id": 309,
+    "spotify_id": "0GxW5K0qzrq7L1jwSY5OmY",
+    "uri": "spotify:track:0GxW5K0qzrq7L1jwSY5OmY",
+    "name": "Mine - POP Mix",
+    "album": "Speak Now",
+    "mood_vector": {
+      "valence": 0.692,
+      "energy": 0.768,
+      "danceability": 0.696,
+      "acousticness": 0.00461,
+      "tempo_normalized": 0.48419999999999996
+    }
+  },
+  "310": {
+    "internal_id": 310,
+    "spotify_id": "46NGAvL695VnbcSeTmQWmM",
+    "uri": "spotify:track:46NGAvL695VnbcSeTmQWmM",
+    "name": "Sparks Fly",
+    "album": "Speak Now",
+    "mood_vector": {
+      "valence": 0.376,
+      "energy": 0.785,
+      "danceability": 0.608,
+      "acousticness": 0.0387,
+      "tempo_normalized": 0.45994
+    }
+  },
+  "311": {
+    "internal_id": 311,
+    "spotify_id": "5l6GqSxplqnZbLg0LTPQeG",
+    "uri": "spotify:track:5l6GqSxplqnZbLg0LTPQeG",
+    "name": "Back To December",
+    "album": "Speak Now",
+    "mood_vector": {
+      "valence": 0.296,
+      "energy": 0.606,
+      "danceability": 0.517,
+      "acousticness": 0.0202,
+      "tempo_normalized": 0.567716
+    }
+  },
+  "312": {
+    "internal_id": 312,
+    "spotify_id": "7dXKdjpOaH2iwfFKmUj7aq",
+    "uri": "spotify:track:7dXKdjpOaH2iwfFKmUj7aq",
+    "name": "Speak Now",
+    "album": "Speak Now",
+    "mood_vector": {
+      "valence": 0.742,
+      "energy": 0.601,
+      "danceability": 0.708,
+      "acousticness": 0.101,
+      "tempo_normalized": 0.475848
+    }
+  },
+  "313": {
+    "internal_id": 313,
+    "spotify_id": "3K2es3gElMRJ3qvmPW442g",
+    "uri": "spotify:track:3K2es3gElMRJ3qvmPW442g",
+    "name": "Dear John",
+    "album": "Speak Now",
+    "mood_vector": {
+      "valence": 0.126,
+      "energy": 0.468,
+      "danceability": 0.583,
+      "acousticness": 0.183,
+      "tempo_normalized": 0.4775
+    }
+  },
+  "314": {
+    "internal_id": 314,
+    "spotify_id": "0KztjtD3ytzgYjUKIVfBnW",
+    "uri": "spotify:track:0KztjtD3ytzgYjUKIVfBnW",
+    "name": "Mean",
+    "album": "Speak Now",
+    "mood_vector": {
+      "valence": 0.808,
+      "energy": 0.747,
+      "danceability": 0.57,
+      "acousticness": 0.445,
+      "tempo_normalized": 0.6560159999999999
+    }
+  },
+  "315": {
+    "internal_id": 315,
+    "spotify_id": "3lXekiVK1ZPZbKconsys73",
+    "uri": "spotify:track:3lXekiVK1ZPZbKconsys73",
+    "name": "The Story Of Us",
+    "album": "Speak Now",
+    "mood_vector": {
+      "valence": 0.84,
+      "energy": 0.855,
+      "danceability": 0.575,
+      "acousticness": 0.000315,
+      "tempo_normalized": 0.55968
+    }
+  },
+  "316": {
+    "internal_id": 316,
+    "spotify_id": "3JilapcaOXzjR9gtvCY8FO",
+    "uri": "spotify:track:3JilapcaOXzjR9gtvCY8FO",
+    "name": "Never Grow Up",
+    "album": "Speak Now",
+    "mood_vector": {
+      "valence": 0.547,
+      "energy": 0.308,
+      "danceability": 0.715,
+      "acousticness": 0.829,
+      "tempo_normalized": 0.499596
+    }
+  },
+  "317": {
+    "internal_id": 317,
+    "spotify_id": "04S1pkp1VaIqjg8zZqknR5",
+    "uri": "spotify:track:04S1pkp1VaIqjg8zZqknR5",
+    "name": "Enchanted",
+    "album": "Speak Now",
+    "mood_vector": {
+      "valence": 0.228,
+      "energy": 0.618,
+      "danceability": 0.535,
+      "acousticness": 0.0716,
+      "tempo_normalized": 0.32789999999999997
+    }
+  },
+  "318": {
+    "internal_id": 318,
+    "spotify_id": "0PWgAyoxsjwGRuFSO0fyya",
+    "uri": "spotify:track:0PWgAyoxsjwGRuFSO0fyya",
+    "name": "Better Than Revenge",
+    "album": "Speak Now",
+    "mood_vector": {
+      "valence": 0.652,
+      "energy": 0.917,
+      "danceability": 0.519,
+      "acousticness": 0.0167,
+      "tempo_normalized": 0.583528
+    }
+  },
+  "319": {
+    "internal_id": 319,
+    "spotify_id": "0mTgFzkDgSAF3nJY25XCXG",
+    "uri": "spotify:track:0mTgFzkDgSAF3nJY25XCXG",
+    "name": "Innocent",
+    "album": "Speak Now",
+    "mood_vector": {
+      "valence": 0.186,
+      "energy": 0.604,
+      "danceability": 0.553,
+      "acousticness": 0.202,
+      "tempo_normalized": 0.535956
+    }
+  },
+  "320": {
+    "internal_id": 320,
+    "spotify_id": "2YjKcFQ1vYFhQPgsmCOjss",
+    "uri": "spotify:track:2YjKcFQ1vYFhQPgsmCOjss",
+    "name": "Haunted",
+    "album": "Speak Now",
+    "mood_vector": {
+      "valence": 0.361,
+      "energy": 0.944,
+      "danceability": 0.434,
+      "acousticness": 0.0769,
+      "tempo_normalized": 0.64808
+    }
+  },
+  "321": {
+    "internal_id": 321,
+    "spotify_id": "4EUQXLipplO2v9mVaqQtjc",
+    "uri": "spotify:track:4EUQXLipplO2v9mVaqQtjc",
+    "name": "Last Kiss",
+    "album": "Speak Now",
+    "mood_vector": {
+      "valence": 0.208,
+      "energy": 0.329,
+      "danceability": 0.359,
+      "acousticness": 0.581,
+      "tempo_normalized": 0.337432
+    }
+  },
+  "322": {
+    "internal_id": 322,
+    "spotify_id": "4ewAfHYpDTzpW1GKO44CVP",
+    "uri": "spotify:track:4ewAfHYpDTzpW1GKO44CVP",
+    "name": "Long Live",
+    "album": "Speak Now",
+    "mood_vector": {
+      "valence": 0.146,
+      "energy": 0.682,
+      "danceability": 0.412,
+      "acousticness": 0.0426,
+      "tempo_normalized": 0.815836
+    }
+  },
+  "323": {
+    "internal_id": 323,
+    "spotify_id": "6WWvcA62QlnRguluWAk6bv",
+    "uri": "spotify:track:6WWvcA62QlnRguluWAk6bv",
+    "name": "Jump Then Fall",
+    "album": "Fearless (Platinum Edition)",
+    "mood_vector": {
+      "valence": 0.82,
+      "energy": 0.687,
+      "danceability": 0.618,
+      "acousticness": 0.111,
+      "tempo_normalized": 0.319964
+    }
+  },
+  "324": {
+    "internal_id": 324,
+    "spotify_id": "6ovFJkdau79DuXEvQjPaNH",
+    "uri": "spotify:track:6ovFJkdau79DuXEvQjPaNH",
+    "name": "Untouchable",
+    "album": "Fearless (Platinum Edition)",
+    "mood_vector": {
+      "valence": 0.288,
+      "energy": 0.454,
+      "danceability": 0.419,
+      "acousticness": 0.0583,
+      "tempo_normalized": 0.800068
+    }
+  },
+  "325": {
+    "internal_id": 325,
+    "spotify_id": "13MAWVUSkbGMUi6I7RowRK",
+    "uri": "spotify:track:13MAWVUSkbGMUi6I7RowRK",
+    "name": "Forever & Always - Piano Version",
+    "album": "Fearless (Platinum Edition)",
+    "mood_vector": {
+      "valence": 0.294,
+      "energy": 0.16,
+      "danceability": 0.592,
+      "acousticness": 0.852,
+      "tempo_normalized": 0.475716
+    }
+  },
+  "326": {
+    "internal_id": 326,
+    "spotify_id": "0cEG04R5cldkTLzK6phlcn",
+    "uri": "spotify:track:0cEG04R5cldkTLzK6phlcn",
+    "name": "Come In With The Rain",
+    "album": "Fearless (Platinum Edition)",
+    "mood_vector": {
+      "valence": 0.23,
+      "energy": 0.461,
+      "danceability": 0.527,
+      "acousticness": 0.0961,
+      "tempo_normalized": 0.5757599999999999
+    }
+  },
+  "327": {
+    "internal_id": 327,
+    "spotify_id": "0XfTh16YcKPzdxMPTeKTAq",
+    "uri": "spotify:track:0XfTh16YcKPzdxMPTeKTAq",
+    "name": "SuperStar",
+    "album": "Fearless (Platinum Edition)",
+    "mood_vector": {
+      "valence": 0.228,
+      "energy": 0.531,
+      "danceability": 0.61,
+      "acousticness": 0.367,
+      "tempo_normalized": 0.343916
+    }
+  },
+  "328": {
+    "internal_id": 328,
+    "spotify_id": "1yDJcXc549N6AabNBzFAku",
+    "uri": "spotify:track:1yDJcXc549N6AabNBzFAku",
+    "name": "The Other Side Of The Door",
+    "album": "Fearless (Platinum Edition)",
+    "mood_vector": {
+      "valence": 0.469,
+      "energy": 0.816,
+      "danceability": 0.476,
+      "acousticness": 0.169,
+      "tempo_normalized": 0.6553880000000001
+    }
+  },
+  "329": {
+    "internal_id": 329,
+    "spotify_id": "2okho7vU7Nsq1UZD0kgIMi",
+    "uri": "spotify:track:2okho7vU7Nsq1UZD0kgIMi",
+    "name": "Fearless",
+    "album": "Fearless (Platinum Edition)",
+    "mood_vector": {
+      "valence": 0.467,
+      "energy": 0.714,
+      "danceability": 0.598,
+      "acousticness": 0.0364,
+      "tempo_normalized": 0.399916
+    }
+  },
+  "330": {
+    "internal_id": 330,
+    "spotify_id": "5Ora3Ish2A1JN5veGYTxhw",
+    "uri": "spotify:track:5Ora3Ish2A1JN5veGYTxhw",
+    "name": "Fifteen",
+    "album": "Fearless (Platinum Edition)",
+    "mood_vector": {
+      "valence": 0.214,
+      "energy": 0.636,
+      "danceability": 0.559,
+      "acousticness": 0.0728,
+      "tempo_normalized": 0.38194
+    }
+  },
+  "331": {
+    "internal_id": 331,
+    "spotify_id": "5hnJCRSo4pxRsaEwT9YusG",
+    "uri": "spotify:track:5hnJCRSo4pxRsaEwT9YusG",
+    "name": "Love Story",
+    "album": "Fearless (Platinum Edition)",
+    "mood_vector": {
+      "valence": 0.307,
+      "energy": 0.736,
+      "danceability": 0.618,
+      "acousticness": 0.157,
+      "tempo_normalized": 0.475928
+    }
+  },
+  "332": {
+    "internal_id": 332,
+    "spotify_id": "3CI1f4yLwdHzcUnH7o0Xyh",
+    "uri": "spotify:track:3CI1f4yLwdHzcUnH7o0Xyh",
+    "name": "Hey Stephen",
+    "album": "Fearless (Platinum Edition)",
+    "mood_vector": {
+      "valence": 0.825,
+      "energy": 0.553,
+      "danceability": 0.843,
+      "acousticness": 0.168,
+      "tempo_normalized": 0.463988
+    }
+  },
+  "333": {
+    "internal_id": 333,
+    "spotify_id": "5yKB8qcTSflDercM2PXwot",
+    "uri": "spotify:track:5yKB8qcTSflDercM2PXwot",
+    "name": "White Horse",
+    "album": "Fearless (Platinum Edition)",
+    "mood_vector": {
+      "valence": 0.195,
+      "energy": 0.346,
+      "danceability": 0.585,
+      "acousticness": 0.302,
+      "tempo_normalized": 0.370256
+    }
+  },
+  "334": {
+    "internal_id": 334,
+    "spotify_id": "4kgTdThcDHfuDS2kKxB7Lc",
+    "uri": "spotify:track:4kgTdThcDHfuDS2kKxB7Lc",
+    "name": "You Belong With Me",
+    "album": "Fearless (Platinum Edition)",
+    "mood_vector": {
+      "valence": 0.445,
+      "energy": 0.771,
+      "danceability": 0.687,
+      "acousticness": 0.164,
+      "tempo_normalized": 0.519856
+    }
+  },
+  "335": {
+    "internal_id": 335,
+    "spotify_id": "23qIWGhpwvDgC23TyZOUck",
+    "uri": "spotify:track:23qIWGhpwvDgC23TyZOUck",
+    "name": "Breathe",
+    "album": "Fearless (Platinum Edition)",
+    "mood_vector": {
+      "valence": 0.17,
+      "energy": 0.486,
+      "danceability": 0.498,
+      "acousticness": 0.373,
+      "tempo_normalized": 0.591808
+    }
+  },
+  "336": {
+    "internal_id": 336,
+    "spotify_id": "4x7Gxk2GfwZJcqpoVT1PbR",
+    "uri": "spotify:track:4x7Gxk2GfwZJcqpoVT1PbR",
+    "name": "Tell Me Why",
+    "album": "Fearless (Platinum Edition)",
+    "mood_vector": {
+      "valence": 0.513,
+      "energy": 0.852,
+      "danceability": 0.601,
+      "acousticness": 0.0606,
+      "tempo_normalized": 0.40006
+    }
+  },
+  "337": {
+    "internal_id": 337,
+    "spotify_id": "3JhvYnOfKLJuWC7jEU0GmJ",
+    "uri": "spotify:track:3JhvYnOfKLJuWC7jEU0GmJ",
+    "name": "You're Not Sorry",
+    "album": "Fearless (Platinum Edition)",
+    "mood_vector": {
+      "valence": 0.281,
+      "energy": 0.459,
+      "danceability": 0.459,
+      "acousticness": 0.13,
+      "tempo_normalized": 0.536072
+    }
+  },
+  "338": {
+    "internal_id": 338,
+    "spotify_id": "4pEZUytwBzha5Un6m3SCFf",
+    "uri": "spotify:track:4pEZUytwBzha5Un6m3SCFf",
+    "name": "The Way I Loved You",
+    "album": "Fearless (Platinum Edition)",
+    "mood_vector": {
+      "valence": 0.379,
+      "energy": 0.712,
+      "danceability": 0.436,
+      "acousticness": 0.0322,
+      "tempo_normalized": 0.643544
+    }
+  },
+  "339": {
+    "internal_id": 339,
+    "spotify_id": "3NKCWBT2uKp8rxSkcvIrdX",
+    "uri": "spotify:track:3NKCWBT2uKp8rxSkcvIrdX",
+    "name": "Forever & Always",
+    "album": "Fearless (Platinum Edition)",
+    "mood_vector": {
+      "valence": 0.514,
+      "energy": 0.829,
+      "danceability": 0.605,
+      "acousticness": 0.0907,
+      "tempo_normalized": 0.512048
+    }
+  },
+  "340": {
+    "internal_id": 340,
+    "spotify_id": "7CjuAoOiSrwWv7wJonAUmw",
+    "uri": "spotify:track:7CjuAoOiSrwWv7wJonAUmw",
+    "name": "The Best Day",
+    "album": "Fearless (Platinum Edition)",
+    "mood_vector": {
+      "valence": 0.364,
+      "energy": 0.447,
+      "danceability": 0.664,
+      "acousticness": 0.611,
+      "tempo_normalized": 0.504316
+    }
+  },
+  "341": {
+    "internal_id": 341,
+    "spotify_id": "3gFaNwyiafgUoQhR0pHYA9",
+    "uri": "spotify:track:3gFaNwyiafgUoQhR0pHYA9",
+    "name": "Change",
+    "album": "Fearless (Platinum Edition)",
+    "mood_vector": {
+      "valence": 0.224,
+      "energy": 0.756,
+      "danceability": 0.548,
+      "acousticness": 0.00471,
+      "tempo_normalized": 0.384152
+    }
+  },
+  "342": {
+    "internal_id": 342,
+    "spotify_id": "6zV8AVM9eVfdG7Qahwd64R",
+    "uri": "spotify:track:6zV8AVM9eVfdG7Qahwd64R",
+    "name": "Fearless",
+    "album": "Fearless (International Version)",
+    "mood_vector": {
+      "valence": 0.472,
+      "energy": 0.705,
+      "danceability": 0.593,
+      "acousticness": 0.0449,
+      "tempo_normalized": 0.40044
+    }
+  },
+  "343": {
+    "internal_id": 343,
+    "spotify_id": "4yf9OivCH2lmQWN8mzpCC6",
+    "uri": "spotify:track:4yf9OivCH2lmQWN8mzpCC6",
+    "name": "Fifteen",
+    "album": "Fearless (International Version)",
+    "mood_vector": {
+      "valence": 0.207,
+      "energy": 0.648,
+      "danceability": 0.555,
+      "acousticness": 0.072,
+      "tempo_normalized": 0.381724
+    }
+  },
+  "344": {
+    "internal_id": 344,
+    "spotify_id": "5xPsybHWRHbTYO44xnREY5",
+    "uri": "spotify:track:5xPsybHWRHbTYO44xnREY5",
+    "name": "Love Story",
+    "album": "Fearless (International Version)",
+    "mood_vector": {
+      "valence": 0.34,
+      "energy": 0.639,
+      "danceability": 0.62,
+      "acousticness": 0.0186,
+      "tempo_normalized": 0.47622000000000003
+    }
+  },
+  "345": {
+    "internal_id": 345,
+    "spotify_id": "4fWDgRZa0GKE5KZNhE9MQa",
+    "uri": "spotify:track:4fWDgRZa0GKE5KZNhE9MQa",
+    "name": "Hey Stephen",
+    "album": "Fearless (International Version)",
+    "mood_vector": {
+      "valence": 0.826,
+      "energy": 0.543,
+      "danceability": 0.843,
+      "acousticness": 0.174,
+      "tempo_normalized": 0.464
+    }
+  },
+  "346": {
+    "internal_id": 346,
+    "spotify_id": "1yFjBRQVhRdcdnrTE5LuyD",
+    "uri": "spotify:track:1yFjBRQVhRdcdnrTE5LuyD",
+    "name": "White Horse",
+    "album": "Fearless (International Version)",
+    "mood_vector": {
+      "valence": 0.212,
+      "energy": 0.342,
+      "danceability": 0.587,
+      "acousticness": 0.298,
+      "tempo_normalized": 0.37083999999999995
+    }
+  },
+  "347": {
+    "internal_id": 347,
+    "spotify_id": "7G6TDmGJXDoBaV6NGj3Yic",
+    "uri": "spotify:track:7G6TDmGJXDoBaV6NGj3Yic",
+    "name": "You Belong With Me",
+    "album": "Fearless (International Version)",
+    "mood_vector": {
+      "valence": 0.469,
+      "energy": 0.775,
+      "danceability": 0.688,
+      "acousticness": 0.151,
+      "tempo_normalized": 0.519876
+    }
+  },
+  "348": {
+    "internal_id": 348,
+    "spotify_id": "0qsSmObOgBZfuMIwfAQDBP",
+    "uri": "spotify:track:0qsSmObOgBZfuMIwfAQDBP",
+    "name": "Breathe",
+    "album": "Fearless (International Version)",
+    "mood_vector": {
+      "valence": 0.163,
+      "energy": 0.472,
+      "danceability": 0.488,
+      "acousticness": 0.389,
+      "tempo_normalized": 0.5917039999999999
+    }
+  },
+  "349": {
+    "internal_id": 349,
+    "spotify_id": "6vLpy7UPYuOa75Bkqocrcw",
+    "uri": "spotify:track:6vLpy7UPYuOa75Bkqocrcw",
+    "name": "Tell Me Why",
+    "album": "Fearless (International Version)",
+    "mood_vector": {
+      "valence": 0.476,
+      "energy": 0.848,
+      "danceability": 0.606,
+      "acousticness": 0.0611,
+      "tempo_normalized": 0.39999599999999996
+    }
+  },
+  "350": {
+    "internal_id": 350,
+    "spotify_id": "4N419mmxYybTfAECy5j4dw",
+    "uri": "spotify:track:4N419mmxYybTfAECy5j4dw",
+    "name": "You're Not Sorry",
+    "album": "Fearless (International Version)",
+    "mood_vector": {
+      "valence": 0.309,
+      "energy": 0.458,
+      "danceability": 0.471,
+      "acousticness": 0.145,
+      "tempo_normalized": 0.53584
+    }
+  },
+  "351": {
+    "internal_id": 351,
+    "spotify_id": "04LDcz3RX1P5sIlzQGqgUN",
+    "uri": "spotify:track:04LDcz3RX1P5sIlzQGqgUN",
+    "name": "The Way I Loved You",
+    "album": "Fearless (International Version)",
+    "mood_vector": {
+      "valence": 0.412,
+      "energy": 0.723,
+      "danceability": 0.434,
+      "acousticness": 0.0315,
+      "tempo_normalized": 0.6434880000000001
+    }
+  },
+  "352": {
+    "internal_id": 352,
+    "spotify_id": "3yuOL0jFnVR8tizZzNNo0F",
+    "uri": "spotify:track:3yuOL0jFnVR8tizZzNNo0F",
+    "name": "Forever & Always",
+    "album": "Fearless (International Version)",
+    "mood_vector": {
+      "valence": 0.55,
+      "energy": 0.816,
+      "danceability": 0.604,
+      "acousticness": 0.0788,
+      "tempo_normalized": 0.512
+    }
+  },
+  "353": {
+    "internal_id": 353,
+    "spotify_id": "7G9D32Kx7hdQ9Uga1V4VXm",
+    "uri": "spotify:track:7G9D32Kx7hdQ9Uga1V4VXm",
+    "name": "The Best Day",
+    "album": "Fearless (International Version)",
+    "mood_vector": {
+      "valence": 0.368,
+      "energy": 0.44,
+      "danceability": 0.671,
+      "acousticness": 0.648,
+      "tempo_normalized": 0.504236
+    }
+  },
+  "354": {
+    "internal_id": 354,
+    "spotify_id": "493jXNrYmXPCMbSJvVRYLk",
+    "uri": "spotify:track:493jXNrYmXPCMbSJvVRYLk",
+    "name": "Change",
+    "album": "Fearless (International Version)",
+    "mood_vector": {
+      "valence": 0.214,
+      "energy": 0.747,
+      "danceability": 0.545,
+      "acousticness": 0.00465,
+      "tempo_normalized": 0.38406799999999996
+    }
+  },
+  "355": {
+    "internal_id": 355,
+    "spotify_id": "5Ct2PYPUSogyWvbV40k9Bf",
+    "uri": "spotify:track:5Ct2PYPUSogyWvbV40k9Bf",
+    "name": "Our Song - International Mix",
+    "album": "Fearless (International Version)",
+    "mood_vector": {
+      "valence": 0.664,
+      "energy": 0.696,
+      "danceability": 0.516,
+      "acousticness": 0.00739,
+      "tempo_normalized": 0.711744
+    }
+  },
+  "356": {
+    "internal_id": 356,
+    "spotify_id": "2RM02ladxD5mgdrlAwh3h9",
+    "uri": "spotify:track:2RM02ladxD5mgdrlAwh3h9",
+    "name": "Teardrops On My Guitar - International Mix",
+    "album": "Fearless (International Version)",
+    "mood_vector": {
+      "valence": 0.152,
+      "energy": 0.557,
+      "danceability": 0.514,
+      "acousticness": 0.0178,
+      "tempo_normalized": 0.39989600000000003
+    }
+  },
+  "357": {
+    "internal_id": 357,
+    "spotify_id": "2gwvtlwlKhvkfjz7Fcb6Yk",
+    "uri": "spotify:track:2gwvtlwlKhvkfjz7Fcb6Yk",
+    "name": "Should've Said No - International Mix",
+    "album": "Fearless (International Version)",
+    "mood_vector": {
+      "valence": 0.454,
+      "energy": 0.761,
+      "danceability": 0.398,
+      "acousticness": 0.00505,
+      "tempo_normalized": 0.6723680000000001
+    }
+  },
+  "358": {
+    "internal_id": 358,
+    "spotify_id": "2Fn01AIMyHbha2ceNQeOqw",
+    "uri": "spotify:track:2Fn01AIMyHbha2ceNQeOqw",
+    "name": "Tim McGraw",
+    "album": "Taylor Swift (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.425,
+      "energy": 0.491,
+      "danceability": 0.58,
+      "acousticness": 0.575,
+      "tempo_normalized": 0.30403600000000003
+    }
+  },
+  "359": {
+    "internal_id": 359,
+    "spotify_id": "4BYejINgfZF0qKDMEH2cim",
+    "uri": "spotify:track:4BYejINgfZF0qKDMEH2cim",
+    "name": "Picture To Burn",
+    "album": "Taylor Swift (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.821,
+      "energy": 0.877,
+      "danceability": 0.658,
+      "acousticness": 0.173,
+      "tempo_normalized": 0.422344
+    }
+  },
+  "360": {
+    "internal_id": 360,
+    "spotify_id": "2TF4UtYreqNbQ6Z9AccldU",
+    "uri": "spotify:track:2TF4UtYreqNbQ6Z9AccldU",
+    "name": "Teardrops On My Guitar - Radio Single Remix",
+    "album": "Taylor Swift (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.289,
+      "energy": 0.417,
+      "danceability": 0.621,
+      "acousticness": 0.288,
+      "tempo_normalized": 0.399812
+    }
+  },
+  "361": {
+    "internal_id": 361,
+    "spotify_id": "1oR4MUBpyNrAViC8wPNpfm",
+    "uri": "spotify:track:1oR4MUBpyNrAViC8wPNpfm",
+    "name": "A Place in this World",
+    "album": "Taylor Swift (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.428,
+      "energy": 0.777,
+      "danceability": 0.576,
+      "acousticness": 0.051,
+      "tempo_normalized": 0.460112
+    }
+  },
+  "362": {
+    "internal_id": 362,
+    "spotify_id": "569sXXQ7t0jSdqHooi2yqs",
+    "uri": "spotify:track:569sXXQ7t0jSdqHooi2yqs",
+    "name": "Cold As You",
+    "album": "Taylor Swift (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.261,
+      "energy": 0.482,
+      "danceability": 0.418,
+      "acousticness": 0.217,
+      "tempo_normalized": 0.702232
+    }
+  },
+  "363": {
+    "internal_id": 363,
+    "spotify_id": "5Tj2MqcFMf60CaGsKbM1aq",
+    "uri": "spotify:track:5Tj2MqcFMf60CaGsKbM1aq",
+    "name": "The Outside",
+    "album": "Taylor Swift (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.591,
+      "energy": 0.805,
+      "danceability": 0.589,
+      "acousticness": 0.00491,
+      "tempo_normalized": 0.451928
+    }
+  },
+  "364": {
+    "internal_id": 364,
+    "spotify_id": "2zzxwmoOBnXDT0KnJsoIWk",
+    "uri": "spotify:track:2zzxwmoOBnXDT0KnJsoIWk",
+    "name": "Tied Together with a Smile",
+    "album": "Taylor Swift (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.192,
+      "energy": 0.578,
+      "danceability": 0.479,
+      "acousticness": 0.525,
+      "tempo_normalized": 0.58466
+    }
+  },
+  "365": {
+    "internal_id": 365,
+    "spotify_id": "41sjzdjScVwnxnxADElts6",
+    "uri": "spotify:track:41sjzdjScVwnxnxADElts6",
+    "name": "Stay Beautiful",
+    "album": "Taylor Swift (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.504,
+      "energy": 0.629,
+      "danceability": 0.594,
+      "acousticness": 0.0868,
+      "tempo_normalized": 0.5263880000000001
+    }
+  },
+  "366": {
+    "internal_id": 366,
+    "spotify_id": "6CdaXOq1MWe2JHDalTG01d",
+    "uri": "spotify:track:6CdaXOq1MWe2JHDalTG01d",
+    "name": "Should've Said No",
+    "album": "Taylor Swift (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.472,
+      "energy": 0.777,
+      "danceability": 0.476,
+      "acousticness": 0.0103,
+      "tempo_normalized": 0.671856
+    }
+  },
+  "367": {
+    "internal_id": 367,
+    "spotify_id": "2O8sogKJCfVZ4rotBv1vVF",
+    "uri": "spotify:track:2O8sogKJCfVZ4rotBv1vVF",
+    "name": "Mary's Song (Oh My My My)",
+    "album": "Taylor Swift (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.374,
+      "energy": 0.627,
+      "danceability": 0.403,
+      "acousticness": 0.0177,
+      "tempo_normalized": 0.29960000000000003
+    }
+  },
+  "368": {
+    "internal_id": 368,
+    "spotify_id": "1j6gmK6u4WNI33lMZ8dC1s",
+    "uri": "spotify:track:1j6gmK6u4WNI33lMZ8dC1s",
+    "name": "Our Song",
+    "album": "Taylor Swift (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.539,
+      "energy": 0.672,
+      "danceability": 0.668,
+      "acousticness": 0.111,
+      "tempo_normalized": 0.35604399999999997
+    }
+  },
+  "369": {
+    "internal_id": 369,
+    "spotify_id": "7CzxXgQXurKZCyHz9ufbo1",
+    "uri": "spotify:track:7CzxXgQXurKZCyHz9ufbo1",
+    "name": "I'm Only Me When I'm With You",
+    "album": "Taylor Swift (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.518,
+      "energy": 0.934,
+      "danceability": 0.563,
+      "acousticness": 0.00452,
+      "tempo_normalized": 0.575856
+    }
+  },
+  "370": {
+    "internal_id": 370,
+    "spotify_id": "1k3PzDNjg38cWqOvL4M9vq",
+    "uri": "spotify:track:1k3PzDNjg38cWqOvL4M9vq",
+    "name": "Invisible",
+    "album": "Taylor Swift (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.233,
+      "energy": 0.394,
+      "danceability": 0.612,
+      "acousticness": 0.637,
+      "tempo_normalized": 0.384004
+    }
+  },
+  "371": {
+    "internal_id": 371,
+    "spotify_id": "0YgHuReCSPwTXYny7isLja",
+    "uri": "spotify:track:0YgHuReCSPwTXYny7isLja",
+    "name": "A Perfectly Good Heart",
+    "album": "Taylor Swift (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.268,
+      "energy": 0.751,
+      "danceability": 0.483,
+      "acousticness": 0.00349,
+      "tempo_normalized": 0.624368
+    }
+  },
+  "372": {
+    "internal_id": 372,
+    "spotify_id": "1hxLyjC9D9Jpw6EAPKqWv4",
+    "uri": "spotify:track:1hxLyjC9D9Jpw6EAPKqWv4",
+    "name": "Teardrops on My Guitar - Pop Version",
+    "album": "Taylor Swift (Deluxe Edition)",
+    "mood_vector": {
+      "valence": 0.483,
+      "energy": 0.753,
+      "danceability": 0.459,
+      "acousticness": 0.0402,
+      "tempo_normalized": 0.799988
+    }
+  }
+}

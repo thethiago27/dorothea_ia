@@ -1,0 +1,38 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# Development
+.idea/
+.kiro/
+.vscode/
+.DS_Store
+.env*.local
+
+# Training artifacts (not needed in production)
+data-train/
+logs/
+
+# Git
+.git/
+.gitignore
+
+# Vercel
+.vercel/
+.vercelignore
+vercel.json
+
+# Firebase
+.firebase/
+firebase-debug.log
+
+# Documentation
+README.md
+
+# Docker
+docker-compose.yml

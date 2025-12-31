@@ -1,27 +1,18 @@
 # Core data processing and ML
-pandas~=2.1.0
-numpy~=1.24.0
-scikit-learn~=1.3.0
+pandas~=2.3.3
+numpy~=2.4.0
+scikit-learn~=1.8.0
 
 # Machine Learning and Deep Learning
-tensorflow~=2.13.0
+tensorflow==2.20.0
 
 # Configuration management
 pyyaml~=6.0
 
 # Property-based testing
-hypothesis~=6.88.0
+hypothesis~=6.148.8
 
-# Optional: TensorFlow.js export (for web deployment)
-tensorflowjs~=4.11.0
 
 # REST API
-fastapi~=0.109.0
-uvicorn[standard]~=0.27.0
-pydantic~=2.5.0
-
-# Development and testing (optional)
-pytest~=7.4.0
-pytest-cov~=4.1.0
-flake8~=6.0.0
-black~=23.7.0
+fastapi==0.128.0
+pydantic~=2.12.5

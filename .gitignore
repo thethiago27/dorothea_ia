@@ -1,5 +1,21 @@
 .idea
 .kiro
 .vscode
-data
+
 logs
+.vercel
+.env*.local
+.DS_Store
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Firebase
+.firebase/
